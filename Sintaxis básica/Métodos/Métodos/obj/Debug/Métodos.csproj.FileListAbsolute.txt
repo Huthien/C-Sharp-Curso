@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\Sintaxis básica\Métodos\Métodos\bin\Debug\Métodos.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\Sintaxis básica\Métodos\Métodos\bin\Debug\Métodos.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Sintaxis básica\Métodos\Métodos\bin\Debug\Métodos.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\Sintaxis básica\Métodos\Métodos\obj\Debug\Métodos.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Sintaxis básica\Métodos\Métodos\obj\Debug\Métodos.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Sintaxis básica\Métodos\Métodos\obj\Debug\Métodos.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Sintaxis básica\Métodos\Métodos\obj\Debug\Métodos.pdb

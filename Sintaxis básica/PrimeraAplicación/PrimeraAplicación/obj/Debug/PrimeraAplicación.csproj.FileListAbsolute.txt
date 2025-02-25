@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\Sintaxis básica\PrimeraAplicación\PrimeraAplicación\bin\Debug\PrimeraAplicación.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\Sintaxis básica\PrimeraAplicación\PrimeraAplicación\bin\Debug\PrimeraAplicación.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Sintaxis básica\PrimeraAplicación\PrimeraAplicación\bin\Debug\PrimeraAplicación.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\Sintaxis básica\PrimeraAplicación\PrimeraAplicación\obj\Debug\PrimeraAplicación.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Sintaxis básica\PrimeraAplicación\PrimeraAplicación\obj\Debug\PrimeraAplicación.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Sintaxis básica\PrimeraAplicación\PrimeraAplicación\obj\Debug\PrimeraAplicación.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Sintaxis básica\PrimeraAplicación\PrimeraAplicación\obj\Debug\PrimeraAplicación.pdb

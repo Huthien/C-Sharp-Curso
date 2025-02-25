@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\Sintaxis b\u00E1sica\\Operaciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7BAAEF-7E86-4253-9A5F-CAE0CBA52964}|Operaciones\\Operaciones.csproj|c:\\users\\hu\\documents\\programming projects\\c# course\\sintaxis b\u00E1sica\\operaciones\\operaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7BAAEF-7E86-4253-9A5F-CAE0CBA52964}|Operaciones\\Operaciones.csproj|solutionrelative:operaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\Sintaxis b\u00E1sica\\Operaciones\\Operaciones\\Program.cs",
+              "RelativeDocumentMoniker": "Operaciones\\Program.cs",
+              "ToolTip": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\Sintaxis b\u00E1sica\\Operaciones\\Operaciones\\Program.cs",
+              "RelativeToolTip": "Operaciones\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T20:56:39.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\Sintaxis básica\Operaciones\Operaciones\bin\Debug\Operaciones.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\Sintaxis básica\Operaciones\Operaciones\bin\Debug\Operaciones.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Sintaxis básica\Operaciones\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\Sintaxis básica\Operaciones\Operaciones\obj\Debug\Operaciones.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Sintaxis básica\Operaciones\Operaciones\obj\Debug\Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Sintaxis básica\Operaciones\Operaciones\obj\Debug\Operaciones.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Sintaxis básica\Operaciones\Operaciones\obj\Debug\Operaciones.pdb
