@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\Control de Flujo\CondicionalIF\CondicionalIF\bin\Debug\CondicionalIF.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\Control de Flujo\CondicionalIF\CondicionalIF\bin\Debug\CondicionalIF.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Control de Flujo\CondicionalIF\CondicionalIF\bin\Debug\CondicionalIF.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\Control de Flujo\CondicionalIF\CondicionalIF\obj\Debug\CondicionalIF.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Control de Flujo\CondicionalIF\CondicionalIF\obj\Debug\CondicionalIF.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Control de Flujo\CondicionalIF\CondicionalIF\obj\Debug\CondicionalIF.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Control de Flujo\CondicionalIF\CondicionalIF\obj\Debug\CondicionalIF.pdb
