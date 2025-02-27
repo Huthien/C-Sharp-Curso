@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\Control de Flujo\Operadores Lógicos\Operadores Lógicos\bin\Debug\Operadores Lógicos.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\Control de Flujo\Operadores Lógicos\Operadores Lógicos\bin\Debug\Operadores Lógicos.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Control de Flujo\Operadores Lógicos\Operadores Lógicos\bin\Debug\Operadores Lógicos.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\Control de Flujo\Operadores Lógicos\Operadores Lógicos\obj\Debug\Operadores Lógicos.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Control de Flujo\Operadores Lógicos\Operadores Lógicos\obj\Debug\Operadores Lógicos.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Control de Flujo\Operadores Lógicos\Operadores Lógicos\obj\Debug\Operadores Lógicos.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Control de Flujo\Operadores Lógicos\Operadores Lógicos\obj\Debug\Operadores Lógicos.pdb
