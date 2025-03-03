@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\Control de Flujo\SwitchCase\SwitchCase\bin\Debug\SwitchCase.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\Control de Flujo\SwitchCase\SwitchCase\bin\Debug\SwitchCase.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Control de Flujo\SwitchCase\SwitchCase\bin\Debug\SwitchCase.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\Control de Flujo\SwitchCase\SwitchCase\obj\Debug\SwitchCase.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Control de Flujo\SwitchCase\SwitchCase\obj\Debug\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Control de Flujo\SwitchCase\SwitchCase\obj\Debug\SwitchCase.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Control de Flujo\SwitchCase\SwitchCase\obj\Debug\SwitchCase.pdb
