@@ -25,4 +25,10 @@
   <li>
     Condicional IF y ELSE, operadores lógicos booleanos y operadores de comparación (menor que, mayor que, menor o igual, mayor o igual)
   </li>
+   <li>
+    Condicional Switch Case
+  </li>
+  <li>
+    Bucle While y Do-While
+  </li>
 </div>
