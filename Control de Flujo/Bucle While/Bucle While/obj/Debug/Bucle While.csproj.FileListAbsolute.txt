@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\Control de Flujo\Bucle While\Bucle While\bin\Debug\Bucle While.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\Control de Flujo\Bucle While\Bucle While\bin\Debug\Bucle While.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Control de Flujo\Bucle While\Bucle While\bin\Debug\Bucle While.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\Control de Flujo\Bucle While\Bucle While\obj\Debug\Bucle While.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Control de Flujo\Bucle While\Bucle While\obj\Debug\Bucle While.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Control de Flujo\Bucle While\Bucle While\obj\Debug\Bucle While.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Control de Flujo\Bucle While\Bucle While\obj\Debug\Bucle While.pdb
