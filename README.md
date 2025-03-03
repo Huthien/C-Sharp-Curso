@@ -29,6 +29,6 @@
     Condicional Switch Case
   </li>
   <li>
-    Bucle While y Do-While
+    Bucle While y Do-While ejemplificados con un minijuego de tirar el dado, y adivina el número.
   </li>
 </div>
