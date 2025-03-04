@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\Excepciones\Throw\Throw\bin\Debug\Throw.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\Excepciones\Throw\Throw\bin\Debug\Throw.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Excepciones\Throw\Throw\bin\Debug\Throw.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\Excepciones\Throw\Throw\obj\Debug\Throw.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Excepciones\Throw\Throw\obj\Debug\Throw.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Excepciones\Throw\Throw\obj\Debug\Throw.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Excepciones\Throw\Throw\obj\Debug\Throw.pdb

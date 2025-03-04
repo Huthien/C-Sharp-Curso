@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\Excepciones\Finally\Finally\bin\Debug\Finally.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\Excepciones\Finally\Finally\bin\Debug\Finally.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Excepciones\Finally\Finally\bin\Debug\Finally.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\Excepciones\Finally\Finally\obj\Debug\Finally.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Excepciones\Finally\Finally\obj\Debug\Finally.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Excepciones\Finally\Finally\obj\Debug\Finally.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Excepciones\Finally\Finally\obj\Debug\Finally.pdb

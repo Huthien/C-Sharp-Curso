@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\Excepciones\Checked\Checked\bin\Debug\Checked.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\Excepciones\Checked\Checked\bin\Debug\Checked.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Excepciones\Checked\Checked\bin\Debug\Checked.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\Excepciones\Checked\Checked\obj\Debug\Checked.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Excepciones\Checked\Checked\obj\Debug\Checked.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Excepciones\Checked\Checked\obj\Debug\Checked.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Excepciones\Checked\Checked\obj\Debug\Checked.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\Excepciones\\Checked\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{387179BB-8D22-483A-A5B2-920C15E22992}|Checked\\Checked.csproj|c:\\users\\hu\\documents\\programming projects\\c# course\\excepciones\\checked\\checked\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387179BB-8D22-483A-A5B2-920C15E22992}|Checked\\Checked.csproj|solutionrelative:checked\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\Excepciones\\Checked\\Checked\\Program.cs",
+              "RelativeDocumentMoniker": "Checked\\Program.cs",
+              "ToolTip": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\Excepciones\\Checked\\Checked\\Program.cs",
+              "RelativeToolTip": "Checked\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAwB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:21:06.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
