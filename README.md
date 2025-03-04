@@ -32,3 +32,19 @@
     Bucle While y Do-While ejemplificados con un minijuego de tirar el dado, y adivina el número.
   </li>
 </div>
+
+<div>
+  <h5>Módulo 3: Excepciones</h5>
+  <li>
+    Bloque Try-Catch, manejo de excepciones específicas (Format Exception // Overflow Exception) y excepciones genéricas
+  </li>
+   <li>
+    Directiva Checked y Unchecked para que el programa evalúe excepciones que pueden pasar desapercibidas
+  </li>
+  <li>
+    Lanzamiento de excepciones con throw
+  </li>
+  <li>
+    Bloque Finally para ejecutar si o si líneas de código a pesar de que el programa cae. Sirve para conexiones con bases de datos y liberar recursos.
+  </li>
+</div>
