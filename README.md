@@ -20,6 +20,8 @@
   </li>
 </div>
 
+#
+
 <div>
   <h5>Módulo 2: Control de flujo</h5>
   <li>
@@ -32,6 +34,8 @@
     Bucle While y Do-While ejemplificados con un minijuego de tirar el dado, y adivina el número.
   </li>
 </div>
+
+#
 
 <div>
   <h5>Módulo 3: Excepciones</h5>
