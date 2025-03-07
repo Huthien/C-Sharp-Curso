@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\Encapsulación\Encapsulación\bin\Debug\Encapsulación.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\Encapsulación\Encapsulación\bin\Debug\Encapsulación.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\Encapsulación\Encapsulación\bin\Debug\Encapsulación.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\Encapsulación\Encapsulación\obj\Debug\Encapsulación.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\Encapsulación\Encapsulación\obj\Debug\Encapsulación.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\Encapsulación\Encapsulación\obj\Debug\Encapsulación.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\Encapsulación\Encapsulación\obj\Debug\Encapsulación.pdb

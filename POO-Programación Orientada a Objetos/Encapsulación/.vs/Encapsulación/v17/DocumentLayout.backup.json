@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\POO-Programaci\u00F3n Orientada a Objetos\\Encapsulaci\u00F3n\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBCF455-B89F-424F-A2F9-26D5CB27B8C2}|Encapsulaci\u00F3n\\Encapsulaci\u00F3n.csproj|c:\\users\\hu\\documents\\programming projects\\c# course\\poo-programaci\u00F3n orientada a objetos\\encapsulaci\u00F3n\\encapsulaci\u00F3n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACBCF455-B89F-424F-A2F9-26D5CB27B8C2}|Encapsulaci\u00F3n\\Encapsulaci\u00F3n.csproj|solutionrelative:encapsulaci\u00F3n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\POO-Programaci\u00F3n Orientada a Objetos\\Encapsulaci\u00F3n\\Encapsulaci\u00F3n\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulaci\u00F3n\\Program.cs",
+              "ToolTip": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\POO-Programaci\u00F3n Orientada a Objetos\\Encapsulaci\u00F3n\\Encapsulaci\u00F3n\\Program.cs",
+              "RelativeToolTip": "Encapsulaci\u00F3n\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T19:26:12.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\POO\POO\bin\Debug\POO.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\POO\POO\bin\Debug\POO.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\POO\POO\bin\Debug\POO.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\POO\POO\obj\Debug\POO.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\POO\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\POO\POO\obj\Debug\POO.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\POO\POO\obj\Debug\POO.pdb
