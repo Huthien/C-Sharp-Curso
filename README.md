@@ -52,3 +52,18 @@
     Bloque Finally para ejecutar si o si líneas de código a pesar de que el programa cae. Sirve para conexiones con bases de datos y liberar recursos.
   </li>
 </div>
+
+#
+
+<div>
+  <h5>Módulo 4: Programación Orientada a Objetos (POO)</h5>
+  <li>
+    Constructores: Declaración de la clase y creación del constructor con las propiedades que tendrá el objeto
+  </li>
+   <li>
+    Creación de métodos setter para establecer ciertos valores en las propiedades o características del objeto 
+  </li>
+  <li>
+    Creación de métodos getter para obtener la información establecida en los objetos
+  </li>
+</div>
