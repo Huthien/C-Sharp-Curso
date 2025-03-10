@@ -60,6 +60,9 @@
   <li>
     Constructores: Declaración de la clase y creación del constructor con las propiedades que tendrá el objeto
   </li>
+  <li>
+    Encapsulación de variables de campo con modificadores de acceso private, y creación de métodos public para modificar variables encapsuladas
+  </li>
    <li>
     Creación de métodos setter para establecer ciertos valores en las propiedades o características del objeto 
   </li>
