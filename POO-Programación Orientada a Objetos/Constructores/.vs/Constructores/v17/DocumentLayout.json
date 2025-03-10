@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\POO-Programaci\u00F3n Orientada a Objetos\\Constructores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB33F8F-91C2-4A4A-994C-C7EF5FEC42FE}|Constructores\\Constructores.csproj|c:\\users\\hu\\documents\\programming projects\\c# course\\poo-programaci\u00F3n orientada a objetos\\constructores\\constructores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB33F8F-91C2-4A4A-994C-C7EF5FEC42FE}|Constructores\\Constructores.csproj|solutionrelative:constructores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\POO-Programaci\u00F3n Orientada a Objetos\\Constructores\\Constructores\\Program.cs",
+              "RelativeDocumentMoniker": "Constructores\\Program.cs",
+              "ToolTip": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\POO-Programaci\u00F3n Orientada a Objetos\\Constructores\\Constructores\\Program.cs",
+              "RelativeToolTip": "Constructores\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T22:21:19.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

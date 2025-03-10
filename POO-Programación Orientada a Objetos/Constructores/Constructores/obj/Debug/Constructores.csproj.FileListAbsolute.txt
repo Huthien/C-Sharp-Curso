@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\Constructores\Constructores\bin\Debug\Constructores.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\Constructores\Constructores\bin\Debug\Constructores.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\Constructores\Constructores\bin\Debug\Constructores.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\Constructores\Constructores\obj\Debug\Constructores.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\Constructores\Constructores\obj\Debug\Constructores.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\Constructores\Constructores\obj\Debug\Constructores.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\Constructores\Constructores\obj\Debug\Constructores.pdb
