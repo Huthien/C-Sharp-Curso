@@ -69,4 +69,16 @@
   <li>
     Creación de métodos getter para obtener la información establecida en los objetos
   </li>
+  <li>
+    Modularización de clases con partial class, y modularización del programa con mas de un archivo .cs
+  </li>
+  <li>
+    Clase Math
+  </li>
+  <li>
+    Métodos y variables static. Las variables de tipo static solo pueden ser modificadas a través de la clase a la que pertenecen y no a través de instancias de la misma!
+  </li>
+  <li>
+    Clases anónimas y sobreescritura de campos de clase
+  </li>
 </div>
