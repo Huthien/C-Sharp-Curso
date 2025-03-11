@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\ClaseMath\ClaseMath\bin\Debug\ClaseMath.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\ClaseMath\ClaseMath\bin\Debug\ClaseMath.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\ClaseMath\ClaseMath\bin\Debug\ClaseMath.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\ClaseMath\ClaseMath\obj\Debug\ClaseMath.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\ClaseMath\ClaseMath\obj\Debug\ClaseMath.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\ClaseMath\ClaseMath\obj\Debug\ClaseMath.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\ClaseMath\ClaseMath\obj\Debug\ClaseMath.pdb

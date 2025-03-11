@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\POO-Programaci\u00F3n Orientada a Objetos\\ClasesAn\u00F3nimas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA92588-D948-4EA3-9CA5-5F2E91669576}|ClasesAn\u00F3nimas\\ClasesAn\u00F3nimas.csproj|c:\\users\\hu\\documents\\programming projects\\c# course\\poo-programaci\u00F3n orientada a objetos\\clasesan\u00F3nimas\\clasesan\u00F3nimas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FA92588-D948-4EA3-9CA5-5F2E91669576}|ClasesAn\u00F3nimas\\ClasesAn\u00F3nimas.csproj|solutionrelative:clasesan\u00F3nimas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\POO-Programaci\u00F3n Orientada a Objetos\\ClasesAn\u00F3nimas\\ClasesAn\u00F3nimas\\Program.cs",
+              "RelativeDocumentMoniker": "ClasesAn\u00F3nimas\\Program.cs",
+              "ToolTip": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\POO-Programaci\u00F3n Orientada a Objetos\\ClasesAn\u00F3nimas\\ClasesAn\u00F3nimas\\Program.cs",
+              "RelativeToolTip": "ClasesAn\u00F3nimas\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:36:00.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

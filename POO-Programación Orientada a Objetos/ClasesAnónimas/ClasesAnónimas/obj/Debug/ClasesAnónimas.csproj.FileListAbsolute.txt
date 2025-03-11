@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\ClasesAnónimas\ClasesAnónimas\bin\Debug\ClasesAnónimas.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\ClasesAnónimas\ClasesAnónimas\bin\Debug\ClasesAnónimas.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\ClasesAnónimas\ClasesAnónimas\bin\Debug\ClasesAnónimas.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\ClasesAnónimas\ClasesAnónimas\obj\Debug\ClasesAnónimas.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\ClasesAnónimas\ClasesAnónimas\obj\Debug\ClasesAnónimas.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\ClasesAnónimas\ClasesAnónimas\obj\Debug\ClasesAnónimas.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Programación Orientada a Objetos\ClasesAnónimas\ClasesAnónimas\obj\Debug\ClasesAnónimas.pdb

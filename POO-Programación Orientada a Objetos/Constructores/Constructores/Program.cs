@@ -56,6 +56,8 @@ namespace Constructores
             largo = largoAuto;
             ancho = anchoAuto;
         }
+        //Incluso se puede crear un constructor vacío que será el que queda por defecto y 
+        //otro/otros constructores por si pasamos parámetros
     }
     partial class Auto //Segundo bloque de la clase Auto (Getters y Setters)
     {
@@ -78,4 +80,7 @@ namespace Constructores
             return $"Extras:\nTapicería: {tapicería} \nClimatizador: {climatizador}\n";
         }
     }
+
+    //Se pueden crear clases en archivos cs diferentes al principal, y desde el archivo main 
+    //instanciar el objeto y utilizarlo. Es lo que se conoce como modularización del programa.
 }
