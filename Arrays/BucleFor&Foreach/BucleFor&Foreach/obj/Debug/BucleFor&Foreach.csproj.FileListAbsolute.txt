@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\Arrays\BucleFor&Foreach\BucleFor&Foreach\bin\Debug\BucleFor&Foreach.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\Arrays\BucleFor&Foreach\BucleFor&Foreach\bin\Debug\BucleFor&Foreach.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Arrays\BucleFor&Foreach\BucleFor&Foreach\bin\Debug\BucleFor&Foreach.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\Arrays\BucleFor&Foreach\BucleFor&Foreach\obj\Debug\BucleFor&Foreach.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Arrays\BucleFor&Foreach\BucleFor&Foreach\obj\Debug\BucleFor&Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Arrays\BucleFor&Foreach\BucleFor&Foreach\obj\Debug\BucleFor&Foreach.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Arrays\BucleFor&Foreach\BucleFor&Foreach\obj\Debug\BucleFor&Foreach.pdb

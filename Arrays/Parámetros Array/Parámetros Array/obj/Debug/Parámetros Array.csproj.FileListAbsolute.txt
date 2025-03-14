@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\Arrays\Parámetros Array\Parámetros Array\bin\Debug\Parámetros Array.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\Arrays\Parámetros Array\Parámetros Array\bin\Debug\Parámetros Array.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Arrays\Parámetros Array\Parámetros Array\bin\Debug\Parámetros Array.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\Arrays\Parámetros Array\Parámetros Array\obj\Debug\Parámetros Array.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Arrays\Parámetros Array\Parámetros Array\obj\Debug\Parámetros Array.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Arrays\Parámetros Array\Parámetros Array\obj\Debug\Parámetros Array.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Arrays\Parámetros Array\Parámetros Array\obj\Debug\Parámetros Array.pdb

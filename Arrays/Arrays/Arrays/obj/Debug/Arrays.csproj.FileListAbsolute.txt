@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\Arrays\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\Arrays\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Arrays\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\Arrays\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Arrays\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Arrays\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Arrays\Arrays\Arrays\obj\Debug\Arrays.pdb
