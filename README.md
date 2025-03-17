@@ -82,3 +82,41 @@
     Clases anónimas y sobreescritura de campos de clase
   </li>
 </div>
+
+#
+
+<div>
+  <h5>Módulo 5: Arrays</h5>
+  <li>
+    Declaración y almacenamiento de elementos en un array
+  </li>
+   <li>
+    Uso de bucle for y foreach para recorrer arrays
+  </li>
+</div>
+
+#
+
+<div>
+  <h5>Módulo 6: Herencia</h5>
+  <li>
+    Jerarquía de clases y sintaxis de herencia
+  </li>
+   <li>
+    Creación de clases que heredan propiedades o métodos de otras
+  </li>
+  <li>
+    Constructor por defecto y sobreescritura de constructores base
+  </li>
+  <li>
+    Uso de las palabras reservadas new, virtual y override para sobreescribir o modificar métodos en las subclases
+  </li>
+  <li>
+    Uso del principio de sustitución y polimorfismo con la herencia de clases 
+  </li>
+  <li>
+    Uso del modificador de acceso protected 
+  </li>
+</div>
+
+
