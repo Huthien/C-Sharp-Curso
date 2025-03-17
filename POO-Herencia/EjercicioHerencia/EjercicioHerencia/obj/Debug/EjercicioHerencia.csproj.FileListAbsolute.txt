@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Herencia\EjercicioHerencia\EjercicioHerencia\bin\Debug\EjercicioHerencia.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Herencia\EjercicioHerencia\EjercicioHerencia\bin\Debug\EjercicioHerencia.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Herencia\EjercicioHerencia\EjercicioHerencia\bin\Debug\EjercicioHerencia.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Herencia\EjercicioHerencia\EjercicioHerencia\obj\Debug\EjercicioHerencia.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Herencia\EjercicioHerencia\EjercicioHerencia\obj\Debug\EjercicioHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Herencia\EjercicioHerencia\EjercicioHerencia\obj\Debug\EjercicioHerencia.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Herencia\EjercicioHerencia\EjercicioHerencia\obj\Debug\EjercicioHerencia.pdb

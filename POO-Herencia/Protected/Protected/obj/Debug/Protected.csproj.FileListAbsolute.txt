@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Herencia\Protected\Protected\bin\Debug\Protected.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Herencia\Protected\Protected\bin\Debug\Protected.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Herencia\Protected\Protected\bin\Debug\Protected.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Herencia\Protected\Protected\obj\Debug\Protected.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Herencia\Protected\Protected\obj\Debug\Protected.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Herencia\Protected\Protected\obj\Debug\Protected.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\POO-Herencia\Protected\Protected\obj\Debug\Protected.pdb
