@@ -119,4 +119,17 @@
   </li>
 </div>
 
+#
 
+<div>
+  <h5>Módulo 7: Interfaces</h5>
+  <li>
+    Creación de interfaces y declaración de métodos
+  </li>
+   <li>
+    Herencia de interfaces e implementación de sus métodos
+  </li>
+  <li>
+    Solucion de posibles ambigüedades en la llamada a un método entre métodos heredados por diferentes interfaces
+  </li>
+</div>
