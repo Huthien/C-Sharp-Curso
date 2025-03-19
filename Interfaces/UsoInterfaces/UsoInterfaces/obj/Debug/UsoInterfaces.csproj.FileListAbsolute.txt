@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\Interfaces\UsoInterfaces\UsoInterfaces\bin\Debug\UsoInterfaces.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\Interfaces\UsoInterfaces\UsoInterfaces\bin\Debug\UsoInterfaces.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Interfaces\UsoInterfaces\UsoInterfaces\bin\Debug\UsoInterfaces.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\Interfaces\UsoInterfaces\UsoInterfaces\obj\Debug\UsoInterfaces.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Interfaces\UsoInterfaces\UsoInterfaces\obj\Debug\UsoInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Interfaces\UsoInterfaces\UsoInterfaces\obj\Debug\UsoInterfaces.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Interfaces\UsoInterfaces\UsoInterfaces\obj\Debug\UsoInterfaces.pdb

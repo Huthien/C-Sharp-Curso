@@ -16,15 +16,21 @@ namespace Interfaces
             inst1.getTipo();
             inst1.Sonido();
             inst1.Golpear();
-            Console.WriteLine($"Número de elementos: {inst1.NumElementos()}");
+            Console.WriteLine($"Número de elementos: {inst1.Num()}");
 
             Console.WriteLine("\nInstrumento: ");
             inst2.getNombre();
             inst2.getTipo();
             inst2.Sonido();
             inst2.Vibrar();
-            Console.WriteLine($"Número de cuerdas: {inst2.NumCuerdas()}");  
-            Console.WriteLine($"Número de elementos: {inst2.NumElementos()}");
+
+            //Donde se produjo la ambigüedad se llama a un método específico creando un objeto de tipo interfaz
+            //y decirle que es igual a nuestro objeto con el método de sustitución:
+
+            INumeroCuerdas numCuerdas = inst2;
+            IElementos elem = inst2;
+            Console.WriteLine($"Número de cuerdas: {numCuerdas.Num()}");  
+            Console.WriteLine($"Número de elementos: {elem.Num()}");
 
             Console.WriteLine("\nInstrumento: ");
             inst3.getNombre();
@@ -36,11 +42,11 @@ namespace Interfaces
 
     interface IElementos //Se declara una interfaz para que las subclases que tienen varios elementos la hereden
     {
-        int NumElementos();
+        int Num();
     }
     interface INumeroCuerdas //Declaración de interfaz para instrumentos de cuerdas
     {
-        int NumCuerdas();
+        int Num();
     }
     class Instrumento
     {
@@ -59,7 +65,7 @@ namespace Interfaces
         public void Golpear() => Console.WriteLine("-Funciona en base a 'golpear' el instrumento");
         public override void getTipo() => Console.WriteLine("-Es un instrumento de percusión");
 
-        public int NumElementos() => 3; //Método de la interfaz de la que hereda
+        public int Num() => 3; //Método de la interfaz de la que hereda
     }
 
     class Violín : Instrumento, INumeroCuerdas, IElementos //Hereda de dos interfaces
@@ -68,9 +74,15 @@ namespace Interfaces
 
         public void Vibrar() => Console.WriteLine("-Funciona en base a vibraciones sobre las cuerdas del instrumento");
         public override void getTipo() => Console.WriteLine("-Es un instrumento de cuerda");
-        public int NumCuerdas() => 4; //Método de interfaz INumeroCuerdas
 
-        public int NumElementos() => 2; //Método de interfaz IElementos
+        //Cuando una clase hereda dos métodos iguales pertenecientes a diferentes Interfaces de las que hereda se 
+        //genera una ambigüedad y hay que especificar a que método hacemos referencia.
+
+        //Se prescinde del modificador de acceso y se llama al nombre del método desde el nombre de la interfaz a la 
+        //que hacemos referencia con la nomenclatura del punto:
+        int INumeroCuerdas.Num() => 4; //Método de interfaz INumeroCuerdas
+
+        int IElementos.Num() => 2; //Método de interfaz IElementos
     }
 
     class Flauta : Instrumento
