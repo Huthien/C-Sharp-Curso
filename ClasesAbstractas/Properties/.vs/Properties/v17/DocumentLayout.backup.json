@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\ClasesAbstractas\\Properties\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBB0AC7-8F60-473F-9089-FE7ECD954B16}|Properties\\Properties.csproj|c:\\users\\hu\\documents\\programming projects\\c# course\\clasesabstractas\\properties\\properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBB0AC7-8F60-473F-9089-FE7ECD954B16}|Properties\\Properties.csproj|solutionrelative:properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\ClasesAbstractas\\Properties\\Properties\\Program.cs",
+              "RelativeDocumentMoniker": "Properties\\Program.cs",
+              "ToolTip": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\ClasesAbstractas\\Properties\\Properties\\Program.cs",
+              "RelativeToolTip": "Properties\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:48:41.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

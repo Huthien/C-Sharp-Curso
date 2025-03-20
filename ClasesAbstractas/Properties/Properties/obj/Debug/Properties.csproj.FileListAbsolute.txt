@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\ClasesAbstractas\Properties\Properties\bin\Debug\Properties.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\ClasesAbstractas\Properties\Properties\bin\Debug\Properties.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\ClasesAbstractas\Properties\Properties\bin\Debug\Properties.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\ClasesAbstractas\Properties\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\ClasesAbstractas\Properties\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\ClasesAbstractas\Properties\Properties\obj\Debug\Properties.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\ClasesAbstractas\Properties\Properties\obj\Debug\Properties.pdb
