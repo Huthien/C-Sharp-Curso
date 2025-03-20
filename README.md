@@ -133,3 +133,18 @@
     Solucion de posibles ambigüedades en la llamada a un método entre métodos heredados por diferentes interfaces
   </li>
 </div>
+
+#
+
+<div>
+  <h5>Módulo 8: Clases Abstractas</h5>
+  <li>
+    Creación de clases abstractas cuyos métodos son heredados de manera no obligatoria a diferencia de las interfaces
+  </li>
+   <li>
+    Los métodos abstractos pueden ser solamente declarados o bien pueden desarrollarse en la clase abstracta
+  </li>
+   <li>
+    Uso de properties para acceder a un campo de clase encapsulado en escenarios específicos
+  </li>
+</div>
