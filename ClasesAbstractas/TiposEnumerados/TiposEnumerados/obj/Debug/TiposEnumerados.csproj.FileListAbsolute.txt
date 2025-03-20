@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\ClasesAbstractas\TiposEnumerados\TiposEnumerados\bin\Debug\TiposEnumerados.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\ClasesAbstractas\TiposEnumerados\TiposEnumerados\bin\Debug\TiposEnumerados.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\ClasesAbstractas\TiposEnumerados\TiposEnumerados\bin\Debug\TiposEnumerados.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\ClasesAbstractas\TiposEnumerados\TiposEnumerados\obj\Debug\TiposEnumerados.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\ClasesAbstractas\TiposEnumerados\TiposEnumerados\obj\Debug\TiposEnumerados.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\ClasesAbstractas\TiposEnumerados\TiposEnumerados\obj\Debug\TiposEnumerados.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\ClasesAbstractas\TiposEnumerados\TiposEnumerados\obj\Debug\TiposEnumerados.pdb

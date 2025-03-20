@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\ClasesAbstractas\Struct\Struct\bin\Debug\Struct.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\ClasesAbstractas\Struct\Struct\bin\Debug\Struct.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\ClasesAbstractas\Struct\Struct\bin\Debug\Struct.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\ClasesAbstractas\Struct\Struct\obj\Debug\Struct.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\ClasesAbstractas\Struct\Struct\obj\Debug\Struct.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\ClasesAbstractas\Struct\Struct\obj\Debug\Struct.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\ClasesAbstractas\Struct\Struct\obj\Debug\Struct.pdb
