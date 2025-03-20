@@ -144,6 +144,9 @@
    <li>
     Los métodos abstractos pueden ser solamente declarados o bien pueden desarrollarse en la clase abstracta
   </li>
+    <li>
+    Uso de clases selladas y métodos sellados con la palabra reservada sealed
+  </li>
    <li>
     Uso de properties para acceder a un campo de clase encapsulado en escenarios específicos
   </li>
