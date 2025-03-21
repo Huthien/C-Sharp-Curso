@@ -150,4 +150,13 @@
    <li>
     Uso de properties para acceder a un campo de clase encapsulado en escenarios específicos
   </li>
+  <li>
+    Creación y uso de structs. Diferencias con las clases
+  </li>
+  <li>
+    Declaración y uso de tipos enumerados (enum)
+  </li>
+  <li>
+    Creación y uso de destructores
+  </li>
 </div>
