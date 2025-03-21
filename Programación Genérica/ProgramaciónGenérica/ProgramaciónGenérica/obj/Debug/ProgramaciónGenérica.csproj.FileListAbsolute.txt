@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\Programación Genérica\ProgramaciónGenérica\ProgramaciónGenérica\bin\Debug\ProgramaciónGenérica.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\Programación Genérica\ProgramaciónGenérica\ProgramaciónGenérica\bin\Debug\ProgramaciónGenérica.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Programación Genérica\ProgramaciónGenérica\ProgramaciónGenérica\bin\Debug\ProgramaciónGenérica.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\Programación Genérica\ProgramaciónGenérica\ProgramaciónGenérica\obj\Debug\ProgramaciónGenérica.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Programación Genérica\ProgramaciónGenérica\ProgramaciónGenérica\obj\Debug\ProgramaciónGenérica.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Programación Genérica\ProgramaciónGenérica\ProgramaciónGenérica\obj\Debug\ProgramaciónGenérica.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Programación Genérica\ProgramaciónGenérica\ProgramaciónGenérica\obj\Debug\ProgramaciónGenérica.pdb
