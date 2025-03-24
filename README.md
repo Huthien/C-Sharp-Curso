@@ -172,3 +172,42 @@
     Restricciones en las clases genéricas
   </li>
 </div>
+
+#
+
+<div>
+  <h5>Módulo 10: Colecciones</h5>
+  <li>
+    Declaración y uso de List
+  </li>
+    <li>
+    Declaración y uso de LinkedList y LinkedListNode
+  </li>
+  <li>
+    Declaración y uso de Queue
+  </li>
+  <li>
+    Declaración y uso de Stack
+  </li>
+  <li>
+    Declaración y uso de Dictionary
+  </li>
+  <li>
+    Uso del bubcle foreach para recorrer diferentes tipos de colecciones
+  </li>
+</div>
+
+#
+
+<div>
+  <h5>Módulo 11: Delegados Predicados y Lambdas</h5>
+  <li>
+    Declaración y uso de delegados que derivan tareas
+  </li>
+    <li>
+    Declaración y uso de Predicados booleanos para filtrar datos
+  </li>
+  <li>
+    Uso de expresiones lambda en métodos, en uso de delegados con uno o más parámetros y en uso de delegados que contienen varias tareas a realizar
+  </li>
+</div>
