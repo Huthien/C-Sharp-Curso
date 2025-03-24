@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\Delegados,Predicados,Lambda\Delegados y Predicados\Delegados y Predicados\bin\Debug\Delegados y Predicados.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\Delegados,Predicados,Lambda\Delegados y Predicados\Delegados y Predicados\bin\Debug\Delegados y Predicados.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Delegados,Predicados,Lambda\Delegados y Predicados\Delegados y Predicados\bin\Debug\Delegados y Predicados.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\Delegados,Predicados,Lambda\Delegados y Predicados\Delegados y Predicados\obj\Debug\Delegados y Predicados.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Delegados,Predicados,Lambda\Delegados y Predicados\Delegados y Predicados\obj\Debug\Delegados y Predicados.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Delegados,Predicados,Lambda\Delegados y Predicados\Delegados y Predicados\obj\Debug\Delegados y Predicados.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Delegados,Predicados,Lambda\Delegados y Predicados\Delegados y Predicados\obj\Debug\Delegados y Predicados.pdb

@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\Delegados,Predicados,Lambda\ExpresionesLambda\ExpresionesLambda\bin\Debug\ExpresionesLambda.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\Delegados,Predicados,Lambda\ExpresionesLambda\ExpresionesLambda\bin\Debug\ExpresionesLambda.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Delegados,Predicados,Lambda\ExpresionesLambda\ExpresionesLambda\bin\Debug\ExpresionesLambda.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\Delegados,Predicados,Lambda\ExpresionesLambda\ExpresionesLambda\obj\Debug\ExpresionesLambda.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Delegados,Predicados,Lambda\ExpresionesLambda\ExpresionesLambda\obj\Debug\ExpresionesLambda.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Delegados,Predicados,Lambda\ExpresionesLambda\ExpresionesLambda\obj\Debug\ExpresionesLambda.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Delegados,Predicados,Lambda\ExpresionesLambda\ExpresionesLambda\obj\Debug\ExpresionesLambda.pdb
