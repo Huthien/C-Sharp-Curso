@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\Expresiones Regulares\\Expresiones Regulares\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91C8B036-3386-4F63-B748-C05D88C355AC}|Expresiones Regulares\\Expresiones Regulares.csproj|c:\\users\\hu\\documents\\programming projects\\c# course\\expresiones regulares\\expresiones regulares\\expresiones regulares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C8B036-3386-4F63-B748-C05D88C355AC}|Expresiones Regulares\\Expresiones Regulares.csproj|solutionrelative:expresiones regulares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\Expresiones Regulares\\Expresiones Regulares\\Expresiones Regulares\\Program.cs",
+              "RelativeDocumentMoniker": "Expresiones Regulares\\Program.cs",
+              "ToolTip": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\Expresiones Regulares\\Expresiones Regulares\\Expresiones Regulares\\Program.cs",
+              "RelativeToolTip": "Expresiones Regulares\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T21:27:26.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

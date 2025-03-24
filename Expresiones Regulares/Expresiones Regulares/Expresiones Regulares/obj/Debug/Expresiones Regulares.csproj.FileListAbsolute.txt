@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\Expresiones Regulares\Expresiones Regulares\Expresiones Regulares\bin\Debug\Expresiones Regulares.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\Expresiones Regulares\Expresiones Regulares\Expresiones Regulares\bin\Debug\Expresiones Regulares.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Expresiones Regulares\Expresiones Regulares\Expresiones Regulares\bin\Debug\Expresiones Regulares.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\Expresiones Regulares\Expresiones Regulares\Expresiones Regulares\obj\Debug\Expresiones Regulares.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Expresiones Regulares\Expresiones Regulares\Expresiones Regulares\obj\Debug\Expresiones Regulares.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Expresiones Regulares\Expresiones Regulares\Expresiones Regulares\obj\Debug\Expresiones Regulares.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Expresiones Regulares\Expresiones Regulares\Expresiones Regulares\obj\Debug\Expresiones Regulares.pdb
