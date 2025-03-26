@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\WPF Interfaces Gr\u00E1ficas\\PrimeraInterfaz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7173D79-7686-4C49-B154-1625BA17F1B3}|PrimeraInterfaz\\PrimeraInterfaz.csproj|c:\\users\\hu\\documents\\programming projects\\c# course\\wpf interfaces gr\u00E1ficas\\primerainterfaz\\primerainterfaz\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7173D79-7686-4C49-B154-1625BA17F1B3}|PrimeraInterfaz\\PrimeraInterfaz.csproj|solutionrelative:primerainterfaz\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7173D79-7686-4C49-B154-1625BA17F1B3}|PrimeraInterfaz\\PrimeraInterfaz.csproj|c:\\users\\hu\\documents\\programming projects\\c# course\\wpf interfaces gr\u00E1ficas\\primerainterfaz\\primerainterfaz\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7173D79-7686-4C49-B154-1625BA17F1B3}|PrimeraInterfaz\\PrimeraInterfaz.csproj|solutionrelative:primerainterfaz\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\WPF Interfaces Gr\u00E1ficas\\PrimeraInterfaz\\PrimeraInterfaz\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PrimeraInterfaz\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\WPF Interfaces Gr\u00E1ficas\\PrimeraInterfaz\\PrimeraInterfaz\\MainWindow.xaml",
+              "RelativeToolTip": "PrimeraInterfaz\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-26T18:12:51.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\WPF Interfaces Gr\u00E1ficas\\PrimeraInterfaz\\PrimeraInterfaz\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PrimeraInterfaz\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\WPF Interfaces Gr\u00E1ficas\\PrimeraInterfaz\\PrimeraInterfaz\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PrimeraInterfaz\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADcAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T18:12:50.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

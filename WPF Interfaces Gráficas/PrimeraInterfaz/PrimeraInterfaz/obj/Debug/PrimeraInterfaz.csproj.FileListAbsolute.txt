@@ -1,0 +1,15 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\PrimeraInterfaz\PrimeraInterfaz\bin\Debug\PrimeraInterfaz.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\PrimeraInterfaz\PrimeraInterfaz\bin\Debug\PrimeraInterfaz.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\PrimeraInterfaz\PrimeraInterfaz\bin\Debug\PrimeraInterfaz.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\PrimeraInterfaz.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\MainWindow.g.cs
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\App.g.cs
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\PrimeraInterfaz_MarkupCompile.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\PrimeraInterfaz_MarkupCompile.lref
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\MainWindow.baml
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\PrimeraInterfaz.g.resources
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\PrimeraInterfaz.Properties.Resources.resources
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\PrimeraInterfaz.csproj.GenerateResource.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\PrimeraInterfaz.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\PrimeraInterfaz.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\PrimeraInterfaz\PrimeraInterfaz\obj\Debug\PrimeraInterfaz.pdb
