@@ -226,3 +226,18 @@
     Uso del cuantificador ? para indicar como condición de búsqueda que ciertos caracteres pueden estar o no en el texto a evaluar.
   </li>
 </div>
+
+#
+
+<div>
+  <h5>Módulo 13: WPF - Interfaces Gráficas con Windows Presentation Fundation</h5>
+  <li>
+    Diseño visual utilizando elementos como TextBox, Button, y Grid
+  </li>
+    <li>
+    Programación de elementos visuales con XAML
+  </li>
+  <li>
+    Programación de elementos visuales a través de archivos C#
+  </li>
+</div>
