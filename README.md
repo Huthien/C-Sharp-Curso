@@ -240,4 +240,10 @@
   <li>
     Programación de elementos visuales a través de archivos C#
   </li>
+   <li>
+    Uso de dependency properties desde elementos del diseño visual (XAML)
+  </li>
+  <li>
+    Uso y declaración de dependency properties desde el archivo .cs
+  </li>
 </div>
