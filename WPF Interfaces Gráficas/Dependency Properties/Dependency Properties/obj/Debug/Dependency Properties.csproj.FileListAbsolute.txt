@@ -1,0 +1,15 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\Dependency Properties\Dependency Properties\bin\Debug\Dependency Properties.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\Dependency Properties\Dependency Properties\bin\Debug\Dependency Properties.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\Dependency Properties\Dependency Properties\bin\Debug\Dependency Properties.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\Dependency Properties\Dependency Properties\obj\Debug\Dependency Properties.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\Dependency Properties\Dependency Properties\obj\Debug\MainWindow.g.cs
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\Dependency Properties\Dependency Properties\obj\Debug\App.g.cs
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\Dependency Properties\Dependency Properties\obj\Debug\Dependency Properties_MarkupCompile.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\Dependency Properties\Dependency Properties\obj\Debug\Dependency Properties_MarkupCompile.lref
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\Dependency Properties\Dependency Properties\obj\Debug\MainWindow.baml
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\Dependency Properties\Dependency Properties\obj\Debug\Dependency Properties.g.resources
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\Dependency Properties\Dependency Properties\obj\Debug\Dependency_Properties.Properties.Resources.resources
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\Dependency Properties\Dependency Properties\obj\Debug\Dependency Properties.csproj.GenerateResource.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\Dependency Properties\Dependency Properties\obj\Debug\Dependency Properties.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\Dependency Properties\Dependency Properties\obj\Debug\Dependency Properties.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\Dependency Properties\Dependency Properties\obj\Debug\Dependency Properties.pdb

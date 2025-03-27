@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\WPF Interfaces Gr\u00E1ficas\\Grid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E344684E-622C-4450-8255-8B76096A0DB8}|Grid\\Grid.csproj|c:\\users\\hu\\documents\\programming projects\\c# course\\wpf interfaces gr\u00E1ficas\\grid\\grid\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E344684E-622C-4450-8255-8B76096A0DB8}|Grid\\Grid.csproj|solutionrelative:grid\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E344684E-622C-4450-8255-8B76096A0DB8}|Grid\\Grid.csproj|c:\\users\\hu\\documents\\programming projects\\c# course\\wpf interfaces gr\u00E1ficas\\grid\\grid\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E344684E-622C-4450-8255-8B76096A0DB8}|Grid\\Grid.csproj|solutionrelative:grid\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\WPF Interfaces Gr\u00E1ficas\\Grid\\Grid\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Grid\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\WPF Interfaces Gr\u00E1ficas\\Grid\\Grid\\MainWindow.xaml",
+              "RelativeToolTip": "Grid\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-27T16:09:37.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\WPF Interfaces Gr\u00E1ficas\\Grid\\Grid\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Grid\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\WPF Interfaces Gr\u00E1ficas\\Grid\\Grid\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Grid\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:09:35.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

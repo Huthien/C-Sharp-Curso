@@ -1,0 +1,74 @@
+﻿<Window x:Class="Grid.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Grid"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <!--Se usa para definir la cantidad de columnas que tendrá la aplicación-->
+            <!--Se define la columna:-->
+            <ColumnDefinition Width="175"></ColumnDefinition>
+            <!--Con auto damos un valor automático referente al elemento que estará en su interior:-->
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+            <!--Con el * se indica tamaño proporcional al espacio disponible:-->
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <!--Se indica la columna y fila en la que estará el botón-->
+        <Button Grid.Column="0">Button1</Button>
+        <Button Grid.Column="1" Grid.Row="0" Width="300">Button2</Button>
+        <Button Grid.Column="2" Grid.Row="0">Button3</Button>
+        <Button Grid.Column="3" Grid.Row="0">Button4</Button>
+
+        <Button Grid.Column="0" Grid.Row="1">Button5</Button>
+        <Button Grid.Column="1" Grid.Row="1" Width="300">Button6</Button>
+        <Button Grid.Column="2" Grid.Row="1">Button7</Button>
+        <Button Grid.Column="3" Grid.Row="1">Button8</Button>
+
+        <Button Grid.Column="0" Grid.Row="2">Button9</Button>
+        <Button Grid.Column="1" Grid.Row="2" Width="300">Button10</Button>
+        <Button Grid.Column="2" Grid.Row="2">Button11</Button>
+        <Button Grid.Column="3" Grid.Row="2">Button12</Button>
+        <!--Con ColumnSpan se le indica cuantas columnas abarca la celda (fusion de celdas)-->
+        <TextBlock Grid.ColumnSpan="3" Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24">Hola</TextBlock>
+        
+        <!--Se pueden anidar Grids adentro de otros grids, e incluso se pueden implementar StackPanels en un Grid-->
+        <Grid Grid.Column="3" Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+            
+            <Button Grid.Column="0" Grid.Row="0">B1</Button>
+            <Button Grid.Column="1" Grid.Row="0">B2</Button>
+            <Button Grid.Column="2" Grid.Row="0">B3</Button>
+
+            <Button Grid.Column="0" Grid.Row="1">B4</Button>
+            <Button Grid.Column="1" Grid.Row="1">B5</Button>
+            <Button Grid.Column="2" Grid.Row="1">B6</Button>
+
+            <Button Grid.Column="0" Grid.Row="2">B7</Button>
+            <Button Grid.Column="1" Grid.Row="2">B8</Button>
+            <Button Grid.Column="2" Grid.Row="2">B9</Button>
+        </Grid>
+        
+    </Grid>
+</Window>
