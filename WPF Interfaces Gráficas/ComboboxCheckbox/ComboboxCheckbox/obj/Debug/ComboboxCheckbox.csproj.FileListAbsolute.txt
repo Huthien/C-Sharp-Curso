@@ -1,0 +1,15 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\ComboboxCheckbox\ComboboxCheckbox\bin\Debug\ComboboxCheckbox.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\ComboboxCheckbox\ComboboxCheckbox\bin\Debug\ComboboxCheckbox.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\ComboboxCheckbox\ComboboxCheckbox\bin\Debug\ComboboxCheckbox.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\ComboboxCheckbox\ComboboxCheckbox\obj\Debug\ComboboxCheckbox.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\ComboboxCheckbox\ComboboxCheckbox\obj\Debug\MainWindow.g.cs
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\ComboboxCheckbox\ComboboxCheckbox\obj\Debug\App.g.cs
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\ComboboxCheckbox\ComboboxCheckbox\obj\Debug\ComboboxCheckbox_MarkupCompile.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\ComboboxCheckbox\ComboboxCheckbox\obj\Debug\ComboboxCheckbox_MarkupCompile.lref
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\ComboboxCheckbox\ComboboxCheckbox\obj\Debug\MainWindow.baml
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\ComboboxCheckbox\ComboboxCheckbox\obj\Debug\ComboboxCheckbox.g.resources
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\ComboboxCheckbox\ComboboxCheckbox\obj\Debug\ComboboxCheckbox.Properties.Resources.resources
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\ComboboxCheckbox\ComboboxCheckbox\obj\Debug\ComboboxCheckbox.csproj.GenerateResource.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\ComboboxCheckbox\ComboboxCheckbox\obj\Debug\ComboboxCheckbox.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\ComboboxCheckbox\ComboboxCheckbox\obj\Debug\ComboboxCheckbox.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\ComboboxCheckbox\ComboboxCheckbox\obj\Debug\ComboboxCheckbox.pdb

@@ -1,0 +1,15 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\ListBox\ListBox\bin\Debug\ListBox.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\ListBox\ListBox\bin\Debug\ListBox.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\ListBox\ListBox\bin\Debug\ListBox.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\ListBox\ListBox\obj\Debug\ListBox.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\ListBox\ListBox\obj\Debug\MainWindow.g.cs
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\ListBox\ListBox\obj\Debug\App.g.cs
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\ListBox\ListBox\obj\Debug\ListBox_MarkupCompile.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\ListBox\ListBox\obj\Debug\ListBox_MarkupCompile.lref
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\ListBox\ListBox\obj\Debug\MainWindow.baml
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\ListBox\ListBox\obj\Debug\ListBox.g.resources
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\ListBox\ListBox\obj\Debug\ListBox.Properties.Resources.resources
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\ListBox\ListBox\obj\Debug\ListBox.csproj.GenerateResource.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\ListBox\ListBox\obj\Debug\ListBox.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\ListBox\ListBox\obj\Debug\ListBox.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\ListBox\ListBox\obj\Debug\ListBox.pdb

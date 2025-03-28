@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\WPF Interfaces Gr\u00E1ficas\\ListBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A942D8-57CB-4A7F-9B97-DF68F5E7E37D}|ListBox\\ListBox.csproj|c:\\users\\hu\\documents\\programming projects\\c# course\\wpf interfaces gr\u00E1ficas\\listbox\\listbox\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7A942D8-57CB-4A7F-9B97-DF68F5E7E37D}|ListBox\\ListBox.csproj|solutionrelative:listbox\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A942D8-57CB-4A7F-9B97-DF68F5E7E37D}|ListBox\\ListBox.csproj|c:\\users\\hu\\documents\\programming projects\\c# course\\wpf interfaces gr\u00E1ficas\\listbox\\listbox\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A942D8-57CB-4A7F-9B97-DF68F5E7E37D}|ListBox\\ListBox.csproj|solutionrelative:listbox\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\WPF Interfaces Gr\u00E1ficas\\ListBox\\ListBox\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ListBox\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\WPF Interfaces Gr\u00E1ficas\\ListBox\\ListBox\\MainWindow.xaml",
+              "RelativeToolTip": "ListBox\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-28T14:29:25.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\WPF Interfaces Gr\u00E1ficas\\ListBox\\ListBox\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ListBox\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\WPF Interfaces Gr\u00E1ficas\\ListBox\\ListBox\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ListBox\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T14:29:24.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+﻿<Window x:Class="ComboboxCheckbox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ComboboxCheckbox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="350"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0">
+            <Label Margin="5">Combobox:</Label>
+            <!--Se crea el combobox-->
+            <ComboBox Name="miCombo">
+                <!--Se crea un template para los items del combobox-->
+                <ComboBox.ItemTemplate>
+                    <!--Se hace un data template-->
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding Nombre}"></TextBlock>
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Margin="100">
+            <Label>Nombres:</Label>
+            <CheckBox Name="Todos" IsThreeState="True" Checked="Todos_Checked" Unchecked="Todos_Unchecked">
+                <TextBlock>Add All</TextBlock>
+            </CheckBox>
+            <StackPanel Margin="10">
+                
+                <!--Se crean los checkbox, cada uno llama a un método Checked y Unchecked-->
+                <CheckBox Name="Persona1" Checked="Individual_Check" Unchecked="Individual_Uncheck">Marta</CheckBox>
+                <CheckBox Name="Persona2" Checked="Individual_Check" Unchecked="Individual_Uncheck">Hernán</CheckBox>
+                <CheckBox Name="Persona3" Checked="Individual_Check" Unchecked="Individual_Uncheck">Eugenio</CheckBox>
+                <CheckBox Name="Persona4" Checked="Individual_Check" Unchecked="Individual_Uncheck">Julia</CheckBox>
+                <CheckBox Name="Persona5" Checked="Individual_Check" Unchecked="Individual_Uncheck">Carlos</CheckBox>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
