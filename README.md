@@ -252,4 +252,10 @@
   <li>
     Uso de INotifyPropertyChanged para notificar cambios en las propiedades de un elemento
   </li>
+  <li>
+    Creación y uso de Listbox y Combobox
+  </li>
+  <li>
+    Creación y uso de Checkbox y Radiobutton
+  </li>
 </div>
