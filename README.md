@@ -246,4 +246,10 @@
   <li>
     Uso y declaración de dependency properties desde el archivo .cs
   </li>
+  <li>
+    Uso de Data Binding entre controles y la fuente de datos de la que se obtiene la información
+  </li>
+  <li>
+    Uso de INotifyPropertyChanged para notificar cambios en las propiedades de un elemento
+  </li>
 </div>
