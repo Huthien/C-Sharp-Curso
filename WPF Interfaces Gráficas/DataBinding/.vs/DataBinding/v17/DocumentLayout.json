@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\WPF Interfaces Gr\u00E1ficas\\DataBinding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C369F92A-BD1B-4E48-BA06-D26E9E17949C}|DataBinding\\DataBinding.csproj|c:\\users\\hu\\documents\\programming projects\\c# course\\wpf interfaces gr\u00E1ficas\\databinding\\databinding\\frase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C369F92A-BD1B-4E48-BA06-D26E9E17949C}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\frase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C369F92A-BD1B-4E48-BA06-D26E9E17949C}|DataBinding\\DataBinding.csproj|c:\\users\\hu\\documents\\programming projects\\c# course\\wpf interfaces gr\u00E1ficas\\databinding\\databinding\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C369F92A-BD1B-4E48-BA06-D26E9E17949C}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C369F92A-BD1B-4E48-BA06-D26E9E17949C}|DataBinding\\DataBinding.csproj|c:\\users\\hu\\documents\\programming projects\\c# course\\wpf interfaces gr\u00E1ficas\\databinding\\databinding\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C369F92A-BD1B-4E48-BA06-D26E9E17949C}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\WPF Interfaces Gr\u00E1ficas\\DataBinding\\DataBinding\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DataBinding\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\WPF Interfaces Gr\u00E1ficas\\DataBinding\\DataBinding\\MainWindow.xaml",
+              "RelativeToolTip": "DataBinding\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-27T23:38:05.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\WPF Interfaces Gr\u00E1ficas\\DataBinding\\DataBinding\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DataBinding\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\WPF Interfaces Gr\u00E1ficas\\DataBinding\\DataBinding\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DataBinding\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T23:38:03.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frase.cs",
+              "DocumentMoniker": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\WPF Interfaces Gr\u00E1ficas\\DataBinding\\DataBinding\\Frase.cs",
+              "RelativeDocumentMoniker": "DataBinding\\Frase.cs",
+              "ToolTip": "C:\\Users\\Hu\\Documents\\Programming Projects\\C# Course\\WPF Interfaces Gr\u00E1ficas\\DataBinding\\DataBinding\\Frase.cs",
+              "RelativeToolTip": "DataBinding\\Frase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:18:44.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
