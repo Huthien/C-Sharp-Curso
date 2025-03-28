@@ -1,0 +1,15 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\RadioButton\RadioButton\bin\Debug\RadioButton.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\RadioButton\RadioButton\bin\Debug\RadioButton.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\RadioButton\RadioButton\bin\Debug\RadioButton.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\RadioButton\RadioButton\obj\Debug\MainWindow.g.cs
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\RadioButton\RadioButton\obj\Debug\App.g.cs
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\RadioButton\RadioButton\obj\Debug\RadioButton_MarkupCompile.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\RadioButton\RadioButton\obj\Debug\RadioButton_MarkupCompile.lref
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\RadioButton\RadioButton\obj\Debug\MainWindow.baml
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\RadioButton\RadioButton\obj\Debug\RadioButton.g.resources
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\RadioButton\RadioButton\obj\Debug\RadioButton.Properties.Resources.resources
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.GenerateResource.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\RadioButton\RadioButton\obj\Debug\RadioButton.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF Interfaces Gráficas\RadioButton\RadioButton\obj\Debug\RadioButton.pdb
