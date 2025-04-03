@@ -259,3 +259,18 @@
     Creación y uso de Checkbox y Radiobutton
   </li>
 </div>
+
+#
+
+<div>
+  <h5>Módulo 14: WPF - BBDD SQL Server</h5>
+  <li>
+    Instalación y configuración de SQL Server junto con la creación de una instancia 
+  </li>
+  <li>
+    Instalación de Microsoft SQL Server Management Studio y conexión con el servidor
+  </li>
+  <li>
+    Creación de la base de datos
+  </li>
+</div>
