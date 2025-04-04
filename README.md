@@ -273,4 +273,13 @@
   <li>
     Creación de la base de datos
   </li>
+  <li>
+    Introducción de datos en la base de datos y conexión a la misma desde un proyecto WPF
+  </li>
+  <li>
+    SQL Connection y visualización en la interfaz gráfica de los datos obtenidos de la base de datos
+  </li>
+  <li>
+    Uso de la clave foránea (FOREIGN KEY) para enlazar referencias entre tablas
+  </li>
 </div>
