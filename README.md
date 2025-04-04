@@ -282,4 +282,7 @@
   <li>
     Uso de la clave foránea (FOREIGN KEY) para enlazar referencias entre tablas
   </li>
+  <li>
+    Disparador de eventos que obtienen, insertan o borran elementos de la base de datos (CRUD), con bloques try catch en excepciones
+  </li>
 </div>
