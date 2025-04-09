@@ -285,4 +285,7 @@
   <li>
     Disparador de eventos que obtienen, insertan o borran elementos de la base de datos (CRUD), con bloques try catch en excepciones
   </li>
+  <li>
+    Modificación de datos en la base de datos desde una ventana emergente a la principal
+  </li>
 </div>
