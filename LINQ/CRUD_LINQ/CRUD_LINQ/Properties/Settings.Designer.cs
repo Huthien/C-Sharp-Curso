@@ -33,5 +33,16 @@ namespace CRUD_LINQ.Properties {
                 return ((string)(this["CrudLinqSql"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-TDTUV7N;Initial Catalog=GestionPedidos;User ID=sa;Encrypt=Tru" +
+            "e;TrustServerCertificate=True")]
+        public string GestionPedidosConnectionString {
+            get {
+                return ((string)(this["GestionPedidosConnectionString"]));
+            }
+        }
     }
 }

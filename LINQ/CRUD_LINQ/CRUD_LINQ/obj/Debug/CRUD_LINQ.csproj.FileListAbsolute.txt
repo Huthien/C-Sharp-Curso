@@ -1,0 +1,15 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\LINQ\CRUD_LINQ\CRUD_LINQ\bin\Debug\CRUD_LINQ.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\LINQ\CRUD_LINQ\CRUD_LINQ\bin\Debug\CRUD_LINQ.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\LINQ\CRUD_LINQ\CRUD_LINQ\bin\Debug\CRUD_LINQ.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\LINQ\CRUD_LINQ\CRUD_LINQ\obj\Debug\CRUD_LINQ.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\LINQ\CRUD_LINQ\CRUD_LINQ\obj\Debug\MainWindow.g.cs
+C:\Users\Hu\Documents\Programming Projects\C# Course\LINQ\CRUD_LINQ\CRUD_LINQ\obj\Debug\App.g.cs
+C:\Users\Hu\Documents\Programming Projects\C# Course\LINQ\CRUD_LINQ\CRUD_LINQ\obj\Debug\CRUD_LINQ_MarkupCompile.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\LINQ\CRUD_LINQ\CRUD_LINQ\obj\Debug\CRUD_LINQ_MarkupCompile.lref
+C:\Users\Hu\Documents\Programming Projects\C# Course\LINQ\CRUD_LINQ\CRUD_LINQ\obj\Debug\MainWindow.baml
+C:\Users\Hu\Documents\Programming Projects\C# Course\LINQ\CRUD_LINQ\CRUD_LINQ\obj\Debug\CRUD_LINQ.g.resources
+C:\Users\Hu\Documents\Programming Projects\C# Course\LINQ\CRUD_LINQ\CRUD_LINQ\obj\Debug\CRUD_LINQ.Properties.Resources.resources
+C:\Users\Hu\Documents\Programming Projects\C# Course\LINQ\CRUD_LINQ\CRUD_LINQ\obj\Debug\CRUD_LINQ.csproj.GenerateResource.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\LINQ\CRUD_LINQ\CRUD_LINQ\obj\Debug\CRUD_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\LINQ\CRUD_LINQ\CRUD_LINQ\obj\Debug\CRUD_LINQ.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\LINQ\CRUD_LINQ\CRUD_LINQ\obj\Debug\CRUD_LINQ.pdb
