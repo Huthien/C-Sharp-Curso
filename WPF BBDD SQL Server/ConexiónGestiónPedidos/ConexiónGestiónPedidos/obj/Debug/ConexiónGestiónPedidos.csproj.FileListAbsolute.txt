@@ -1,0 +1,17 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF BBDD SQL Server\ConexiónGestiónPedidos\ConexiónGestiónPedidos\bin\Debug\ConexiónGestiónPedidos.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF BBDD SQL Server\ConexiónGestiónPedidos\ConexiónGestiónPedidos\bin\Debug\ConexiónGestiónPedidos.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF BBDD SQL Server\ConexiónGestiónPedidos\ConexiónGestiónPedidos\bin\Debug\ConexiónGestiónPedidos.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF BBDD SQL Server\ConexiónGestiónPedidos\ConexiónGestiónPedidos\obj\Debug\ConexiónGestiónPedidos.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF BBDD SQL Server\ConexiónGestiónPedidos\ConexiónGestiónPedidos\obj\Debug\MainWindow.g.cs
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF BBDD SQL Server\ConexiónGestiónPedidos\ConexiónGestiónPedidos\obj\Debug\App.g.cs
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF BBDD SQL Server\ConexiónGestiónPedidos\ConexiónGestiónPedidos\obj\Debug\ConexiónGestiónPedidos_MarkupCompile.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF BBDD SQL Server\ConexiónGestiónPedidos\ConexiónGestiónPedidos\obj\Debug\ConexiónGestiónPedidos_MarkupCompile.lref
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF BBDD SQL Server\ConexiónGestiónPedidos\ConexiónGestiónPedidos\obj\Debug\MainWindow.baml
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF BBDD SQL Server\ConexiónGestiónPedidos\ConexiónGestiónPedidos\obj\Debug\ConexiónGestiónPedidos.g.resources
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF BBDD SQL Server\ConexiónGestiónPedidos\ConexiónGestiónPedidos\obj\Debug\ConexiónGestiónPedidos.Properties.Resources.resources
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF BBDD SQL Server\ConexiónGestiónPedidos\ConexiónGestiónPedidos\obj\Debug\ConexiónGestiónPedidos.csproj.GenerateResource.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF BBDD SQL Server\ConexiónGestiónPedidos\ConexiónGestiónPedidos\obj\Debug\ConexiónGestiónPedidos.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF BBDD SQL Server\ConexiónGestiónPedidos\ConexiónGestiónPedidos\obj\Debug\ConexiónGestiónPedidos.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF BBDD SQL Server\ConexiónGestiónPedidos\ConexiónGestiónPedidos\obj\Debug\ConexiónGestiónPedidos.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF BBDD SQL Server\ConexiónGestiónPedidos\ConexiónGestiónPedidos\obj\Debug\Modifica.g.cs
+C:\Users\Hu\Documents\Programming Projects\C# Course\WPF BBDD SQL Server\ConexiónGestiónPedidos\ConexiónGestiónPedidos\obj\Debug\Modifica.baml

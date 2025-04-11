@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\LINQ\IntroducciónLINQ\IntroducciónLINQ\bin\Debug\IntroducciónLINQ.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\LINQ\IntroducciónLINQ\IntroducciónLINQ\bin\Debug\IntroducciónLINQ.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\LINQ\IntroducciónLINQ\IntroducciónLINQ\bin\Debug\IntroducciónLINQ.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\LINQ\IntroducciónLINQ\IntroducciónLINQ\obj\Debug\IntroducciónLINQ.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\LINQ\IntroducciónLINQ\IntroducciónLINQ\obj\Debug\IntroducciónLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\LINQ\IntroducciónLINQ\IntroducciónLINQ\obj\Debug\IntroducciónLINQ.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\LINQ\IntroducciónLINQ\IntroducciónLINQ\obj\Debug\IntroducciónLINQ.pdb
