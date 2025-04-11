@@ -265,27 +265,60 @@
 <div>
   <h5>Módulo 14: WPF - BBDD SQL Server</h5>
   <li>
-    Instalación y configuración de SQL Server junto con la creación de una instancia 
+    Instalación y configuración de SQL Server junto con la creación de una instancia.
   </li>
   <li>
-    Instalación de Microsoft SQL Server Management Studio y conexión con el servidor
+    Instalación de Microsoft SQL Server Management Studio y conexión con el servidor.
   </li>
   <li>
-    Creación de la base de datos
+    Creación de la base de datos.
   </li>
   <li>
-    Introducción de datos en la base de datos y conexión a la misma desde un proyecto WPF
+    Introducción de datos en la base de datos y conexión a la misma desde un proyecto WPF.
   </li>
   <li>
-    SQL Connection y visualización en la interfaz gráfica de los datos obtenidos de la base de datos
+    SQL Connection y visualización en la interfaz gráfica de los datos obtenidos de la base de datos.
   </li>
   <li>
-    Uso de la clave foránea (FOREIGN KEY) para enlazar referencias entre tablas
+    Uso de la clave foránea (FOREIGN KEY) para enlazar referencias entre tablas.
   </li>
   <li>
-    Disparador de eventos que obtienen, insertan o borran elementos de la base de datos (CRUD), con bloques try catch en excepciones
+    Disparador de eventos que obtienen, insertan o borran elementos de la base de datos (CRUD), con bloques try catch en excepciones.
   </li>
   <li>
-    Modificación de datos en la base de datos desde una ventana emergente a la principal
+    Modificación de datos en la base de datos desde una ventana emergente a la principal.
+  </li>
+  <li>
+    Uso de querys, consultas y manipulación de datos en la base de datos con sql.
+  </li>
+  <li>
+    Uso de SqlAdapter y DataTable para alamacenar datos traídos de una tabla desde la base de datos.
+  </li>
+  <li>
+    Uso de SqlCommand para consultas paramétricas a la base de datos.
+  </li>
+</div>
+
+#
+
+<div>
+  <h5>Módulo 15: LINQ</h5>
+  <li>
+    Consulta y manipulación de datos en estructuras de tipo lista y array.
+  </li>
+  <li>
+    Consulta y manipulación de datos en bases de datos.
+  </li>
+  <li>
+    Uso de lambda junto con Linq para simplificar el código y sea más legible.
+  </li>
+  <li>
+    Uso de la clase IEnumerable.
+  </li>
+  <li>
+    Uso de un DataContext para manipular datos traidos de la base de datos a través de las herramientas Linq.
+  </li>
+  <li>
+    Creación de un archivo .dbml para realizar un mapeo de la base de datos.
   </li>
 </div>
