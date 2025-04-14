@@ -1,0 +1,701 @@
+C# COURSE:
+---------------------------------------------------------------------------------------------------------------
+SINTAXIS BÁSICA:
+---------------------------------------------------------------------------------------------------------------
+-Las variables se declaran en minúsculas o con CamelCase
+
+-C# es case sensitive
+
+-Se usa interpolación de strings:
+	--en vez de escribir + para concatenar se usa $"INSERTE TEXTO {VARIABLE A USAR}"
+
+- Se pueden declarar varias variables en una sola linea de codigo, e incuso se puede almacenar un mismo valor en todas esas variables en una sola linea de codigo utilizando el operador = 
+
+- Conversión implícita solo entre tipos compatibles (int/long - float/double), por lo que no se hace una conversión explícita o casting
+
+- Conversiones de tipo o Type Conversion: convierte un tipo de variable en otro con el que no es compatible
+
+- Se puede indicar el valor a mostrar en pantalla si al método WriteLine le paso separados por comas varias variables o constantes, e indicando entre {} el numero del index de parámetro:
+
+Ejemplo: 
+Console.WriteLine("El valor es: {2}", VALOR1, VALOR2, VALOR3)
+
+Se mostrará el valor almacenado en la variable VALOR3
+
+-PI Se usa como constante porque es un valor estático
+
+- Si se llama una funcion void desde el static main, da error y no se podra llamar porque la funcion no es static como el main, por ende se soluciona haciendo el método de tipo static.
+
+-Los parámetros en una función se pueden pasar por valores directos o por referencia
+
+-Para colocar un parámetro opcional en un método se indica en los paréntesis y se lo inicia con un valor en donde se declara. 
+
+Ejemplo:
+
+static int Suma(int num1, double num2, double num3 = 0)
+{
+	CODIGO-
+}
+
+Cuando se usa el parámetro opcional en lo que haga el método, el valor que se le puso por defecto será reemplazado por el valor que se le da fuera de dicho método.
+Los parámetros opcionales siempre se declaran luego de los parámetros oligatorios en un método.
+
+----------------------------------------------------------------------------------------------------------------
+CONDICIONAL IF / SWITCH CASE:
+----------------------------------------------------------------------------------------------------------------
+-El condicional if se usa para evaluar una condición, y que cuando la condición se cumple pase algo.
+-La directiva else se usa para que pase algo si la condición del if no se cumple o es distinta.
+-Una forma de comparar la respuesta del usuario en si y no es usando:
+
+	int VARIABLE = String.Compare(VARIABLE A COMPARAR, STRING, TRUE)
+
+Ejemplo:
+
+	int compara = String.Compare(respuesta, "si", true);
+
+y despues se usa el condicional para ver si es true o false:
+	if (compara == 0) entonces es verdadero
+	if (compara == 1) entonces es falso
+
+-Switch -- Solo puede evaluar int, char o string. Float y double se evalúan a través del condicional if
+
+- En un Switch case no se pueden utilizar operadores lógicos de comparación && o ||
+
+----------------------------------------------------------------------------------------------------------------BUCLE WHILE / DO-WHILE:
+----------------------------------------------------------------------------------------------------------------
+
+-El bucle DO-WHILE, a diferencia del bucle while,  ejecuta el codigo en su interior aunque sea una vez a pesar de que la condicion a evaluar sea falsa. 
+
+----------------------------------------------------------------------------------------------------------------
+EXCEPCIONES:
+----------------------------------------------------------------------------------------------------------------
+
+-Las excepciones generales no son tan recomendables porque no otorgan suficiente información sobre el error ocurrido
+
+-Se puede generar un catch en un bloque try catch que capture una excepción en especifico y luego un catch con excepciones generales 
+
+-Otra cosa es utilizer una excepción genérica y añadirle un when para excluir un tipo de excepcion en especifico que e tratará con un catch a continuación del catch general
+
+-Checked se usa para hacer que el programa no deje pasar por alto ciertas excepciones
+
+-Para no tener que programar un checked, Visual Studio nos permite configurarlo desde propiedades del proyecto:
+  --  Propiedades / Compilación / Avanzadas ---
+    Se activa la casilla de -Comprobar desbordamiento y subdesbordamiento aritmético-
+
+-Se puede utilizar checked(LINEA DE CODIGO A EVALUAR) para que el programa lo checkee, y unchecked para decirle que no evalúe alguna linea en particular y estas directivas solo funcionan con int y long, no funciona con decimales.
+
+-Se puede lanzar una excepción en especifico con la directive Throw y utilizar un try catch para manejar dicha excepción 
+-El bloque Finally se usa para liberar recursos y ejecutar Código que deberá ejecutarse si o si aunque el programa caiga
+
+----------------------------------------------------------------------------------------------------------------
+PROGRAMACIÓN ORIENTADA A OBJETOS - POO
+----------------------------------------------------------------------------------------------------------------
+
+-En la programación orientada a objetos, se pueden crear clases y generar instancias de las mismas. Esas clases son objetos con sus características propiedades o atributos, y todas esas características pueden ser heredadas por otras clases. 
+
+-Los objetos se crean mediante constructores.
+
+-Para acceder a propiedades y métodos de una clase desde fuera de la clase se usa la palabra public que es el modificador de acceso de dicho método. Hay varios en C# pero los mas importantes a tener en cuenta son public, private, internal.
+
+-Los datos que no sean public deben escribirse con camelCase y los que son public con PascalCase(mayuscula en la primer letra de la primer palabra y mayuscula en la primer letra de la segunda palabra)
+
+-Los constructores son métodos o funciones que se llaman igual a la clase a la que pertenecen y se les declararán ciertas propiedades o características a través de variables encapsuladas.
+
+-Se crearán métodos setter de tipo public para settear o establecer ciertas propiedades al objeto, y métodos getter de tipo public para obtener esa información establecida con el SET
+
+-Se instancia el objeto, y a través de la nomenclatura del punto se accede a los métodos public setter, getter, o cualquier otro para modificar u obtener la información del objeto creado.
+
+-MODULARIZACIÓN: 
+Se puede modularizar una clase utilizando la palabra partial antes de class, e incluso se puede modularizar el programa utilizando varios archivos .cs para no realizer todo en uno solo.
+
+-La clase Math sirve para realizer cálculos matemáticos, tiene varios métodos y dos constantes (PI, E)
+
+-STATIC:
+La palabra reservada static se usa para que varios objetos de dicha clase compartan una propiedad y la utilicen. Cuando se crea una variable normal que utilizan varios objetos, cada objeto tiene una copia de la variable que será modificada de manera independiente sin afectar a la copia de los demas. En cambio cuando se crea una variable static, ésta es compartida por todos los objetos y solo puede ser modificada por la clase.
+Ejemplo: 
+
+int Contador = 7; //Ésta variable puede ser usada y modificada por todos las instancias
+static int Contador = 7; //Solo puede ser usada por las instancias pero no puede modificarse a través de ellas
+
+Para modificarla se haría a través de la clase. Si la clase se llama por ejemplo clase1, entonces:
+Clase1.contador = 7; modifica el valor de la variable porque es a través de la clase y no de una instancia de la misma.
+
+-Las clases anónimas sirven en las expresiones query en sql.Slo pueden contener campos publicos y que no sean static.Todos los campos deben estar iniciados y no pueden definirse métodos en una clase anónima en C#
+
+----------------------------------------------------------------------------------------------------------------
+ARRAYS:
+----------------------------------------------------------------------------------------------------------------
+
+- La declaración normal de un array se realiza indicando el tipo de dato, dos corchetes [], y el nombre del array. Para iniciarlo se puede indicar que es igual a la palabra reservada new, el nombre del array, y entre corchetes el número de elementos que tendrá el mismo. 
+Declaración de un array:
+
+	int numeros = new int[5];
+
+Luego se pueden almacenar elementos o valores en cada posicion del array, iniciando con el index 0:
+
+numeros[0] = 23;
+numeros[1] = 45;
+numeros[2] = 34;
+numeros[3] = 12;
+numeros[4] = 78;
+
+Es hasta la posicion número 4 porque el indice comienza con el número 0 y tienen que ser 5 posiciones.
+
+-Se puede declarar un array y en su inicialización agregar elementos sin indicar un límite. 
+Ejemplo:
+
+	int[] numeros = new int[] {1,2,3,4,5,6} ;
+
+Y se pueden agregar mas de manera manual dentro de las llaves.
+
+- Los arrays pueden pasarse como parámetros o ser recibidos con un return desde un método que debe devolver un array. Y para recorrer o modificar la data en los array se pueden utilizar los bucles for y foreach
+
+----------------------------------------------------------------------------------------------------------------BUCLE FOR / FOREACH:
+----------------------------------------------------------------------------------------------------------------
+
+Sintaxis de un bucle for:
+
+for(i = 0, i<= N, i++)
+{
+	//CODIGO A EJECUTAR DENTRO DEL BUCLE
+}
+
+Se declara la variable i (contador) y se la inicia en 0, se le dice que si el Contador es menor a la cantidad indicada, entonces el código en el interior del bucle se ejecuta y se incrementa el contador en 1. Y éste comportamiento se repite hasta que el contador sea igual al número indicado en la condición.
+
+-El bucle for se puede usar para recorrer arrays, indicando manualmente el número de repeticiones o bien indicando que el código se repita siempre y cuando el Contador sea menor a la longitud del array.
+
+-Se utiliza la propiedad Lenght para obtener la longitud del array, y es muy útil a la hora de recorrer un array del que no sabemos si se van a quitar o agregar elementos.
+
+- El bucle Foreach sirve para arrays implícitos, anónimos y para arrays de objetos en general.
+Sintaxis de un bucle foreach:
+
+foreach(OBJ obj in NOMBREARRAY)
+{
+	CODIGO A REALIZAR USANDO LA VARIABLE obj
+}
+
+----------------------------------------------------------------------------------------------------------------
+HERENCIA - POO:
+----------------------------------------------------------------------------------------------------------------
+-Una clase puede heredar características o propiedades de otra
+
+- En el uso de la herencia hay que tener en cuenta la jerarquía entre las clases a usar y cual clase debería heredar propiedades de otra. 
+
+- Para poder diseñar la jerarquía entre clases se puede usar el principio de "ES-UN" que consiste en preguntarse si X clase puede ser Y, y en el caso de que asi sea, quiere decir que X deberá heredar de Y.
+
+-La superclase Object es a clase de la que heredan todas las clases que creas y siempre estará en la cúspide de la jerarquía de manera implícita. Por ende, todas las clases que sean creadas heredarán los métodos de la clase Object.
+
+A la hora de crear los objetos, las subclases llaman al constructor por defecto de la clase padre a través del método implícito :base() cuando dichas subclases no tienen un constructor propio. Si creamos un constructor propio en la clase empleado, éste sobreescribe el constructor por defecto y por ende hay que programar manualmente el método :base() en cada subclase para que accedan al constructor de la clase padre.
+
+Si pide parámetros, se deberán pasar los parámetros correspondientes
+
+----------------------------------------------------------------------------------------------------------------
+POLIMORFISMO:
+----------------------------------------------------------------------------------------------------------------
+
+Es la capacidad de los objetos de comportarse de diferente forma o de tener diferente forma dependiendo del contexto.
+
+PRINCIPIO DE SUSTITUCIÓN:
+El principio de sustitución en la herencia consiste en sustituir un objeto de un tipo por un objeto de un tipo diferente teniendo en cuenta la herencia
+
+Podemos instanciar un objeto de la clase Mamífero, y un objeto de la clase Humano, y decir que el objeto mamifero es igual al objeto humano:
+
+Mamífero mam = new Mamífero();
+Humano hum = new Humano();
+
+mam = hum; 
+
+- El principio de susitución puede usarse en arrays. Por ejemplo, puedo crear un array de Objetos de tipo Mamífero y guardar en su interior instancias de objetos de tipo Humano, Gorila, Caballo, etc siempre y cuando se tenga en cuenta la jerarquía de las clases 
+
+
+- Cuando se crean métodos con el mismo nombre y número de parámetros en diferentes clases (Sobrecarga de métodos), cada uno de esos métodos son independientes de los otros
+
+- El modificador de acceso virtual se usa para indicar que todas las subclases de la clase principal deberán tener el método declarado en común. Por ejemplo, si en la clase mamíferos tenemos el método Pensar() entonces al usar la palabra virtual estamos obligados a que todas las subclases que heredan de mamíferos tengan un método Pensar() en su declaración. Y ése método puede modificarse de manera independiente para cada clase según se lo necesite. Para su modificación en las subclases es necesario el uso de la palabra override cuando el método de la clase padre es virtual.
+
+Si tenemos un método virtual en la clase padre y el mismo método override en las subclases, al usar polimorfismo el método se comportará en base al objeto en el que se transforma. Por ejemplo, tenemos un método Conducir() en la clase padre Vehiculo y exite el método override Conducir() en las subclases Avion y Auto.
+Si instanciamos un objeto de tipo vehiculo como un nuevo objeto de tipo Avion y llamamos al método Conducir, el método ejecutará las líneas de código del método override de la clase Avion en vez del método base Conducir de la clase padre. Lo mismo pasa si instanciamos un objeto de tipo vehículo como un nuevo objeto de tipo Auto, el método Conducir llamado será en ese caso el predispuesto en la clase Auto. 
+
+----------------------------------------------------------------------------------------------------------------INTERFACES:
+----------------------------------------------------------------------------------------------------------------
+
+-Son un conjunto de directrices que deben tener las clases de manera opcional. Las clases pueden heredar de una interfaz. 
+
+-Son parecidas a las clases pero en ellas solo existen las declaraciones de los métodos y propiedades
+
+-Son como plantillas que marcan el diseño de la herencia y el comportamiento de las clases que hereden de la interfaz.
+
+-Sintaxis de una interfaz:
+	interface INOMBRE {}
+
+-Los métodos solo se declaran en la interfaz y luego es necesario implementar un método con igual nombre en las subclases que hereden la interfaz.
+
+-Si los métodos declarados en la interfaz piden parámetros, entonces el método definido en las subclases deberá llevar misma cantidad de parámetros; y mismo tipo de parámetro y dato a devolver.
+
+-Cuando una clase hereda de una interfaz es OBLIGATORIO que la clase implemente los métodos declarados en la interfaz sin excepción.
+
+-Una clase puede heredar de varias interfaces pero no de multiples clases.
+
+-Pueden surgir ambigüedades en los métodos con mismo nombre de diferentes interfaces que son heredados por la misma clase. Para solucionar una ambigüedad se prescinde del modificador de acceso y el nombre del método se llama usando la nomenclatura del punto con l nombre de la Interfaz a la que hace referencia
+
+-Como se prescinde del modificador de acceso public, para llamar al método de afuera de la clase es necesario utilizar el principio de sustitución. Por ende se hace un objeto del tipo de la clase padre, y decirle que ese objeto es igual a un objeto de un tipo de una subclase.
+
+RESTRICCIONES DE LAS INTERFACES:
+-No se permite definir campos (variables) en una interfaz
+-No se pueden definir constructores ni destructores
+-No se pueden especificar modificadores de acceso en la definición de métodos (todos son public de forma implícita)
+-No se pueden anidar clases ni otro tipo de estructuras en una interfaz
+
+----------------------------------------------------------------------------------------------------------------CLASES ABSTRACTAS:
+----------------------------------------------------------------------------------------------------------------
+
+-Son clases que estan por encima de las clases difinidas y que van a tener los métodos compartidos con todas las demas clases. Por ejemplo, si tenemos la clase Mamíferos y tenemos que crear la clase Lagartija, como una lagartija no es un mamífero se puede hacer una clase abstracta en la cúspide de ambas, y en esa clase colocar los métodos que son compartidos entre ambas clases. Y si un método compartido debe comportarse de manera distinta en una de las clases, entonces en vez de desarrollarlo en la clase abstracta solamente se declara, como pasa en las interfaces. 
+
+-Se pueden declarar métodos abstractos en la clase abstracta para desarrollarlos en la clase que lo necesite
+-Los métodos heredados de una clase abstracta no son obligatorios de desarrollar a diferencia de lo que pasa con las interfaces.
+
+----------------------------------------------------------------------------------------------------------------CLASES SELLADAS:
+----------------------------------------------------------------------------------------------------------------
+
+- Se puede sellar una clase para que a futuro no pueda ser extendida y que otras clases creadas no puedan heredar de ella.
+
+-Tambien se pueden sellar métodos para que no sean sobreescritos con override a futuro.
+
+-Se usa la palabra reservada sealed
+
+----------------------------------------------------------------------------------------------------------------PROPERTIES:
+----------------------------------------------------------------------------------------------------------------
+
+-Las properties sirven para simplificar el código y se usan solo en casos específicos
+- se declaran con el modificador de acceso, el tipo de dato, y el nombre en mayúsculas finalizando con dos llaves entre las cuales se declararan un getter y un setter.
+
+Sintaxis de una propertie:
+
+public int SALARIO
+{
+	get => salario;       
+	set => salario = 100;  
+}
+
+Por ende, en vez de tener que crear un getter, un setter, y un método de acceso para llamar desde afuera de la clase, simplemente se crea la propertie; y se llama con la nomenclatura del punto desde el objeto de la clase, a la propertie. 
+
+Si tenemos la clase Empleado, por ejemplo, podemos crear un objeto de tipo empleado y llamar a la propiedad:
+Empleado emp = new Empleado();
+emp.SALARIO = value --- se le pone un valor
+Console.WriteLine(emp.SALARIO) --- imprime el valor en pantalla
+
+Con esto se entiende que las properties permiten acceder a las variables de campo como si fueran public a pesar de que estan encapsuladas a través de la porpertie creada.
+
+----------------------------------------------------------------------------------------------------------------STRUCTS:
+----------------------------------------------------------------------------------------------------------------
+
+-Las structs se almacenan en la memoria stack en vez de en la memoria heap como las clases
+-Cuando se hace una modificacion en uno de los objetos struct los cambios solo afectarán a dicha copia en vez de afectar a la estructura.
+
+RESTRICCIONES DE LAS STRUCTS:
+-No permiten la declaración de un constructor por defecto
+-El compilador no inicia los campos, los tienes que iniciar en el constructor
+-No puede haber sobrecarga de constructores en una struct
+-No pueden heredar de otras clases pero si pueden heredar de interfaces
+-Son sealed (clases selladas)
+
+USO DE LAS STRUCTS:
+-Las struct se utilizaran cuando hay que trabajar con una cantidad elevada de datos en memoria (representación de primitivos, números complejos, puntos tridimensionales, arrays que tienen demasiada información etc)
+-Cuando las instancias no deban cambiar
+-Cuando la instancia tenga tamaño inferior a 16 bytes
+-Cuando no se necesite convertir a objeto (boxed)
+-Por razones de rendimiento
+
+----------------------------------------------------------------------------------------------------------------ENUM (Tipos Enumerados):
+----------------------------------------------------------------------------------------------------------------
+
+-Son un conjunto de constantes con nombre
+
+Sintaxis de Enum:
+enum VARIABLE {CONSTANTES}
+
+-Los tipos enumerados sirven para representar y manejar valores fijos en un programa.
+-Suelen declararse en el namespace para que pueda ser utilizado en el resto de las clases
+-Para obtener un valor almacenado en una constante del enum es necesario hacerle un casting creando una variable nueva donde almacenar ese valor.
+
+----------------------------------------------------------------------------------------------------------------DESTRUCTORES:
+----------------------------------------------------------------------------------------------------------------
+
+Cuando se crea un objeto se reserva un objeto en la memoria heap y con la referencia un espacio en la memoria stack. Cuando hay objetos que ya no se van a utilizar el garbage collector examina que recursos ya no se van a usar y se libera ese espacio en la memoria heap.
+
+Los destructores permiten eliminar de manera inmediata los recursos que no van a usarse cuando el garbage collector checkea que recursos no usarán más
+
+SINTAXIS DE UN DESTRUCTOR:
+~NOMBRE_DE_LA_CLASE()
+{
+
+}
+
+-Los destructores solo se usan en clases
+-Cada clase solo puede tener un destructor
+-Los destructores no se heredan ni se sobrecargan
+-Los destructores no se llaman, son invocados automáticamente
+-Los destructores no tienen modificadores de acceso ni tienen parámetros
+
+No se recomienda el uso de destructores a menos que tengas muy en claro el objeto que necesites destruir en el momento, sino simplemente se deja que el garbage collector del lenguaje de programación se ocupe de ir eliminando aquellos recursos que no se usan 
+
+----------------------------------------------------------------------------------------------------------------PROGRAMACIÓN GENÉRICA
+----------------------------------------------------------------------------------------------------------------
+
+-Permite reutilizar el código
+-Consiste en crear clases comodín que permiten manejar cualquier tipo de objeto
+
+SINTAXIS DE CLASE GENÉRICA:
+En la instancia del objeto se indica entre <> el tipo de dato a manejar
+
+Clase <int> clase = new Clase();
+
+Si queremos usar la clase Object desde herencia de clases para manejar diferentes tipos de objetos surgen varios inconvenientes:
+-Se usa mucho el casting
+-Se complica el código ne vez de simplificarlo
+-No se puede hacer una comprobación de errores
+
+Por ello se usa la programación Genérica, para simplificar el código y reutilizarlo, además de que se puede hacer una comprobación de errores en tiempo de compilación.
+
+-Se pueden agregar restricciones a la clase genérica para que solo almacene clases que compartan un método o propiedad en común para evitar que esta clase genérica sea capaz de almacenar otras clases que no deberían tener esos métodos o propiedades
+
+SINTAXIS DE UNA RESTRICCION:
+
+class NOMBRECLASE <T> where T : NOMBRE_DE_CLASE
+
+Se le dice a la clase que almacene elementos "DONDE" se hayan heredado X clase o cierta interfaz
+
+----------------------------------------------------------------------------------------------------------------
+COLECCIONES:
+----------------------------------------------------------------------------------------------------------------
+
+-Son clases pertenecientes al namespace System.Collection.Generic
+
+
+COLECCIONES:
+-List <T> :
+	Son parecidas a los array, pero consumen mas recursos a falta de limitaciones. Permiten ordenar, 	añadir, eliminar o  buscar elementos almacenados en ellas.
+
+-Queue<T> :
+	Las "colas". Un elemento entra y otro sale. El primero en entrar es el primero en salir.
+
+-Stack<T> :
+	Parecidas a las queue, pero en este caso el primero en entrar es el último en salir.
+
+-LinkedList<T> :
+	Es el como el queue o el stack pero tiene el acceso de manera aleatoria.
+
+-HashSet<T>} :
+	Listas de valores sin ordenar.
+
+-Dictionary<Tkey, Tvalue> :
+	Alamcena elementos con estructura de clave-valor.
+
+-SortedList<Tkey, Tvalue> :
+	Iguales a los dictionary pero ordenados.
+
+LIST:
+- Las list permiten añadir elementos en tiempo de ejecución a diferencia de los array
+- Se recorren utilizando un bucle foreach
+- Se pueden almacenar valores de un array en una lista
+- Para añadir elementos de utiliza el método Add() de la colección y para quitar elementos se utiliza el método Remove() o RemoveAt() para eliminar un elemento en específico.
+- Los datos de una list se almacenan uno junto a otro. Al eliminar un elemento, ese espacio en la list no puede quedar vacío, por lo que los elementos se mueven de posición para volver a estar juntos.
+
+LINKEDLIST:
+- Se recomienda utilizar una linkedList en vez de una list en casos en los que se necesita eliminar y agregar datos constantemente. 
+- Están formados por nodos, y todos los nodos tienen dos enlaces que conectan con el siguiente elemento y el anterior. 
+- Los nodos son objetos de tipo LinkedListNode<T>
+- Cuando se elimina un dato, el resto de elementos no se mueven de posición sino que se actualizan los enlaces, por lo que es mas eficiente que las list.
+
+
+QUEUE:
+-Son de tipo F.I.F.O. (First In First Out), es decir que el primer elemento agregado en ellas es el primero en salir.
+-Se utilizan en procesos secuenciales (tareas)
+-Se usan en UNIX para el control de procesos (Tareas de sistema operativa)
+
+STACK:
+-Son de tipo L.I.F.O. (Last In First Out), es decir que el último elemento agregado en ellas es el primero en salir.
+
+DICTIONARY:
+-Son como los array asociativos de PHP.
+-Piden una clave y un valor, cada elemento con un valor determinado tiene asociado una clave única para cada uno.
+-Se usan en el manejo de datos en bases de datos y consumen muchos mas recursos que otras colecciones.
+
+----------------------------------------------------------------------------------------------------------------DELEGADOS:
+----------------------------------------------------------------------------------------------------------------
+
+-Son funciones que delegan tareas en otras funciones
+-Es una referencia a un método
+-Se usan para llamar a eventos
+-Reduce significativamente el código y permite reutilizarlo
+
+SINTAXIS DE UN DELEGADO:
+
+delegate TIPO NombreDelegado(ARGUMENTOS)
+
+-El delegado está obligado a tener el mismo tipo y argumentos que el método al que apunta.
+
+DELEGADOS PREDICADOS:
+-Son delegados que devuelven true o false, son funciones de tipo boolean
+-Casi siempre se usan para filtrar elementos listados en colecciones basados en condiciones
+
+SINTAXIS DE UN PREDICADO:
+
+Predicate<T> NombrePredicado = new Predicate<T>(FuncionDelegado);
+
+EXPRESIONES LAMBDA:
+-Son funciones anónimas que no tienen nombre y se usan para ejecutar tareas o funciones que no necesitan ser nombradas.
+-Se utilizan cuando se crean delegados sencillos y en exoresiones linq query 
+
+SINTAXIS DE UNA EXPRESIÓN LAMBDA:
+PARÁMETROS => EXPRESION O BLOQUE DE SENTENCIA (Tarea a realizar)
+
+-Se puede utilizar lambdas para simplificar métodos, en el uso de delegados con uno o más parámetros, e incluso en bucles foreach 
+
+----------------------------------------------------------------------------------------------------------------EXPRESIONES REGULARES:
+----------------------------------------------------------------------------------------------------------------
+
+-Son secuencias de caracteres que funcionan como un patrón de búsqueda.
+-Se puede usar cuando se quiere validar la información que introduce el usuario, como el número de teléfono o el email por ejemplo.
+
+Clases útiles:
+-Regex
+-Match
+-MatchCollection
+-GroupCollection
+
+Métodos útiles:
+-Matches
+
+Propiedades útiles:
+-Groups
+
+-Se inctancia un Regex y luego se genera un MacthCollection para evaluar si hay una cadena de caracteres en una frase o en un archivo de texto.
+
+-La barra vertical o pipe | se utiliza en una expresion regular.
+-A la hora de buscar dominios de paginas web se puede utilizar el ? para indicar que puede estar presente o no una parte del texto
+
+-Hay generadores de expresiones regulares pero no son fiables al 100%, pero sirven para checkear como construir una expresion regular para el patrón de búsqueda.
+
+----------------------------------------------------------------------------------------------------------------WPF (Windows Presentation Fundation)- INTERFACES GRÁFICAS:
+----------------------------------------------------------------------------------------------------------------
+
+-WPF es el sucesor de Windows Forms
+-API perteneciente al paquete .NET para crear interfaces de usuario para para Windows.
+-Se puede usar XAML, lenguaje parecido a HTML
+-Las interfaces WPF son vectoriales
+-Utiliza el data binding MVC (Modelo Vista Controlador)
+
+-Se puede trabajar con XAML y con C# en (Code Behind)
+-Con Visual Studio se puede trabajar en la interfaz en vista diseño para simplemente arrastrar los componentes a la ventana y cambiando sus propiedades o valores desde el código xaml predispuesto 
+-Con el Code Behind en C# tenemos un archivo principal a través del cual también se puede modificar la interfaz
+
+-Los objetos button, textbloc, etc, tienen sus propias propiedades a las que podemos acceder con la nomenclatura del punto
+
+STACK PANEL: Organizador de elementos apilados o panel pila
+
+EVENTOS EN WPF:
+
+Eventos enrutados: 
+	-Directos
+	-Burbuja (bubbling)
+	-Tunelados (tunneling)
+
+-Eventos Burbuja (Eventos bubbling)-
+Cuando surge un evento se propaga hacia arriba teniendo en cuenta la jerarquía de elementos. Es decir que el elemento se propaga hacia la ventana
+
+-Eventos Tunelados (Eventos tunneling)
+Cuando surge un evento se propaga hacia abajo tieniendo en cuenta la jerarquía de elementos.
+Se usa la palabra preview en el nombre del evento. Ejemplo: PreviewMouseLeftButtonDown
+
+-Eventos Directos-
+No tienen propagación, es un evento directo del elemento.
+
+GRID:
+
+-Dividen una interfaz gráfica en celdas a través de filas y columnas.
+-Permiten organizar mejor algunos elementos de la interfaz.
+-Es el contenedor más versátil de WPF
+-Cada columna y fila pueden tomar diferentes valores de tamaño:
+	- Absoluto: Valores en pixeles.
+	- Automático: Asigna un valor que necesita el elemento del interior para entrar en el espacio 		disponible.
+	- Proporcional: Valor disponible asignado de manera proporcional.
+
+-Las coordenadas de un elemento en una grid siempre son COLUMNA,FILA (numColumna, numFila), es decir que siempre se inicia por la columna, y luego por el valor de la fila.
+-Se pueden usar multiplicadores con el espacio automático o propocional usando un numero delante del *.
+-RowSpan y ColumnSpan se usa para fusionar celdas de columnas o filas.
+
+
+DEPENDENCY PROPERTIES:
+
+-Son propiedades que dependen del sistema de propiedades de WPF para su funcionamiento.
+-El sistema de propiedades es un conjunto de servicios que permiten ampliar la funcionalidad de una propiedad.
+-El sistema de dependencia se usa para establecer las propiedades de un control en función de otros parámetros que pueden cambiar:
+	-Propiedades del sistema (Temas y preferencias de usuario)
+	-Data Binding (Just in Time - En tiempo de ejecución)
+	-Animaciones (Animaciones de botones y otros controles)
+	-Estilos, etc
+
+-Todas las dependency properties deben finalizar con la palabra Property a la hora de declararlas.
+-Son public, static y readonly además de formar parte de la clase DependencyProperty en su declaración
+
+DATA BINDING (Enlace de datos):
+
+-Es un enlace a través del cual un control es capaz de enviar y recibir información.
+-Esos datos los pueden recibir de varias fuentes, como por ejemplo una base de datos, objetos, u otros controles.
+
+Tipos de Data Binding:
+
+-One Way: De una sola dirección. Va desde un source a un target (CONTROL <- FUENTE)
+-One Way to Source: Van desde el target al source. (CONTROL -> FUENTE)
+-Two Ways: Es bidireccional. Va desde el source al target y viceversa.
+-One Time: Los datos fluyen desde el source al target solo una vez.
+
+Se usa {} y la palabra Binding para indicar el elemento a enlazar, Path para el valor y Mode para el modo del binding.
+
+INTERFAZ INotifyPropertyChanged :
+
+-Reune todos los eventos que puede desencadenar un objeto en uno solo
+-Permite realizar un evento para notificar cambios en cualquiera de las propiedades del objeto o elemento.
+
+LISTBOX:
+-Es una lista de elementos donde podemos seleccionar cada uno de ellos
+
+COMBOBOX:
+-
+
+CHECKBOX:
+-Son casillas de verificación
+-Se pueden activar varios a la vez
+
+RADIOBUTTON:
+-Son como los checkbox pero solo uno de ellos puede estar seleccionado.
+
+----------------------------------------------------------------------------------------------------------------
+BBDD SQL SERVER:
+----------------------------------------------------------------------------------------------------------------
+
+-Se instala SQL Server en el equipo.
+-Durante la instalación CUSTOM le podemos decir al instalador que en la configuración del servidor nos pida una autenticación mixta donde el usuario será sa y la contraseña la elegimos nosotros.
+
+<-----------------------------------
+-TENER EN CUENTA:
+---Durante la instalación puede pasar que el Database Engine Services (Servicios de motor de base de datos) no se instale por un error que puede ser causado por un problema con el disco en windows 11. Hay soluciones disponibles en el foro de microsoft para solucionarlo.
+
+Una vez solucionado se reinicia el equipo para que se ejecuten los cambios; y se debe reinstalar SQL Server o bien desinstalar y reinstalar el Database Engine Services. 
+
+-Una vez que todo está en orden se instala El Microsoft SQL Server Management studio desde el cual se establecerá la conexión con el servidor. 
+-Luego, desde visual studio se hace la conexión con el servidor y la base de datos donde se trabajará.
+------------------------------------>
+
+-Los nombres de las tablas en SQL se escriben en minúscula
+-Creando un proyecto nuevo, en la pestaña de Oríegenes de Datos o Data Source debemos indicar de donde viene la información para trabajar con el proyecto. Por ende se hace la conexión con la base de datos.
+-Luego de indicar la conexión con la base de datos y los elementos que usaremos de la misma hay que establecer la cadena de conexión al origen de datos desde el archivo cs.
+-Tener en cuenta que hay que importar en referencias la referencia System.Configuration
+-Una vez agregada la referencia se usa la directiva using en el archivo cs para indicar el uso de esa referencia en el proyecto.
+
+-La clave foránea es un campo o grupo de campos en una tabla de una base de datos relacional que hace referencia a la clave primaria de otra tabla, estableciendo así una relación entre ambas tablas.
+Para usar una clave foránea hay que crearla desde el campo a utilizar; y luego se especifica el foreign key de la tabla a la que se relacionará con el campo al que se enlaza.
+
+FOREIGNKEY [Nombre del campo de la clave foránea] REFERENCES[Nombre de la tabla con la que se enlaza]([Nombre del campo con el que se enlaza la llave o clave foránea])
+
+CONSULTAS SQL (new query):
+Se pueden hacer consultas de datos a traves de un query especificando campos o las variables de las que queremos obtener información
+
+Para obtener información de una tabla y llevarla a la interfaz visual hay que iniciar una conexión SQL con la clase SQL Connection
+
+-Para poder obtener, ingresar o eliminar datos en una base de datos se pueden hacer querys o consultas con SQL 
+Si la información viene de una tabla, se crea un objeto DataTable para almacenar esa información
+-En algunas ocasiones se necesitarán realizar consultas paramétricas (con parámetro) y para ello se utiliza un objeto de tipo SqlCommand en cuyos parámetros se pasará la consulta hecha a la db, y la instancia de la conexión con la misma. 
+-Luego se utiliza el Adaptador SQL (SqlAdapter) para poder llenar un elemento de la interfaz gráfica con la información traída de la base de datos.
+-En la instancia del adaptador de le pasará como parámetro el commando si se realizó una consulta paramétrica. 
+
+En el caso de que la consulta no sea paramétrica, al adaptador se le pasa la consulta y la instancia de la conexión.
+
+----------------------------------------------------------------------------------------------------------------
+LINQ (Languaje Integrated Query)
+----------------------------------------------------------------------------------------------------------------
+
+-Lenguaje integrado de consultas en C# y .NET
+-Sirve para consultar y obtener datos de diferentes orígenes de datos
+-Es similar a SQL
+-Nos permite consultar datos desde orígenes como bases de datos, objetos, Recordset, y otras estructuras
+-LinQ se utiliza por la uniformidad en lenguajes de consulta
+-Permite reducir código y lo hace más legible
+
+La API de LinQ está formada por dos clases: Enumerable y Queryable
+Éstas clases tienen una colección de métodos que nos permitirán acceder y manipular los datos que serán accesibles y manejables siempre y cuando implementen estas interfaces.
+
+Hay varios operadores linq que son útiles a la hora de hacer consultas con los orígenes de datos
+
+----------------------------------------------------------------------------------------------------------------LINQ Y SQL:
+----------------------------------------------------------------------------------------------------------------
+
+Se deberá hacer un archivo .dbml para realizar un mapeo de los objetos de la base de datos en un DataContext
+Al agregar una tabla al archivo .dbml será tratada como si fuese una clase, por lo tanto podremos crear objetos del tipo de esa tabla.
+Por ejemplo, si tenemos una tabla llamada Empresa con sus campos, y la agregamos al archivo .dbml podremos instanciar en el código de nuestro proyecto objetos de tipo Empresa.
+
+La directiva o método First() del data context creado nos permite decirle que en cuánto encuentre un objeto o un valor igual a un string o un numero (dependiendo del valor que le hayamos puesto), que lo añada.
+
+----------------------------------------------------------------------------------------------------------------
+THREADS:
+----------------------------------------------------------------------------------------------------------------
+
+-Se usan en aplicaciones multitarea donde se realizen varias tareas a la vez de manera simultánea
+-El método Sleep() permite dormir un hilo de ejecución para pausar su ejecución una determinada cantidad de tiempo.
+-Para realizar una tarea de manera simultánea se crea un objeto de la clase Thread y se le pasa como parámetro el método que se ejecutará. Y luego se le indica a la instancia que inicie con el método Start()
+
+SINCRONIZACIÓN, BLOQUEO Y CONDICIÓN DE EJECUCIÓN:
+-Se puede programar la sincronización de ejecución de los hilos 
+-Se pueden bloquear o asegurar hilos, es decir, que mientras cierto hilo esté ejecutando su tarea, que no se pueda modificar o manipular la información del código de ese hilo en particular.
+-Para la sincronización se usa el método Join() y para el bloqueo el método lock()
+-Se utiliza la clase ThreadCompletionSource<Genérico> para decirle a un thread que comience su tarea cuando otras tareas se hayan finalizado, como condición.
+-Los threads se usan con sockets, ficheros externos y con conexión de bases de datos.
+
+THREADPOOL:
+-Se deja que la computadora elija en base a los recursos que tiene disponibles que thread se encargará de ejecutar cierta tarea en concreto.
+-Se usa hacer un pool de threads para no tener que crear un thread para cada tarea a realizar por temas de optimización de recursos.
+-Reutilización de threads
+-Para crear un threadpool se usa la clase ThreadPoo con el método QueueUserWorkItem() y se le pasa por parámetro el método de la tarea a ejecutar y un objeto pedido por el método.
+
+----------------------------------------------------------------------------------------------------------------TASK:
+----------------------------------------------------------------------------------------------------------------
+
+-Las task están por encima del nivel de los threads y gestionará un pool de threads para optimizar el uso del procesador dependiendo de la computadora donde se estén ejecutando las tareas.
+-Si el procesador no consume tantos recursos y no se sobrecarga, será la task la encargada de generar mas threads
+
+INSTANCIA DE UNA TASK:
+
+Task task = new Task(PARÁMETROS DEL CONSTRUCTOR);
+var task = new Task(PARÁMETROS DEL CONSTRUCTOR);
+
+-Se crea un objeto de tipo task o una variable que será instancia de un Objeto de tipo Task y se utilizará uno de los tantos constructores que tiene la clase.
+-Se le puede pasar al constructor un método para que la task ejecute en el momento en el que le decimos Start()
+o bien se le puede indicar con lambda que ejecute cierto código predispuesto desde la instancia de la misma.
+-Luego de decirle a la task que inicie con el método Start(), se deberá utilizar el método Wait() para evitar que el programa finalice antes de que la task pueda ejecutarse en el caso de que no se esté ejecutando el código.
+
+TASK CONSECUTIVAS:
+-Las task pueden ejecutarse de manera simultánea o consecutiva. Es decir que una task puede ejecutarse una vez que la anterior finalice su ejecución.
+-El método Run() permite ejecutar task de manera consecutiva con el método de ContinueWith(). Podemos decirle a una task que use el método Run(), y la siguiente será igual a la primer task con el método ContinueWith(), y pasando como parámetro el método a ejecutar:
+
+Task t1 = Task.Run(() => {EjecutarTarea();});
+Task t2 = t1.ContinueWith(EjecutarTarea2);
+
+En el método de la tarea 2 hay que pasarle un parámetro de tipo Task en la declaración de dicho método para que no de error al hacer la llamada con ContinueWith()
+
+----------------------------------------------------------------------------------------------------------------CLASE PARALLEL:
+----------------------------------------------------------------------------------------------------------------
+
+-Los métodos for y foreach pertenecientes a la clase Parallel se utilizan para reemplazar a los bucles for y foreach tradicionales cuando se ven involucrados en tareas recurrentes.
+-Se usa cuando un método se ejecuta de forma recurrente en el cual son varias las task o tareas que tienen que ejecutar dicho método.
+-Todas las tareas trabajan de manera paralela utilizando ésta clase
+-Se usa Parallel.For o Parallel.Foreach para ejecutar las tareas.
+-Se puede usar lambda en el método For y Foreach para simplificar el código
+
+----------------------------------------------------------------------------------------------------------------CANCELACIÓN DE TASK:
+----------------------------------------------------------------------------------------------------------------
+
+-Mientras se ejecuta la tarea se crea un Token de cancelacion (un objeto), que permite propagar o avisar a la tarea de que puede ser cancelada si se dan ciertas circunstancias dentro del programa.
+-Para crear el Token se usa CancellationTokenSource y CancellationToken. El CancellationTokenSource señala cuál token será el que cancele la task o tarea y el CancellationToken se usa para instanciar un token que será igual al source:
+
+CancellationTokenSource miToken = new CancellationTokenSource();
+CancellationToken cancelaToken = miToken.Token;
