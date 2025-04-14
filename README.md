@@ -322,3 +322,39 @@
     Creación de un archivo .dbml para realizar un mapeo de la base de datos.
   </li>
 </div>
+
+#
+
+<div>
+  <h5>Módulo 16: Threads</h5>
+  <li>
+    Creación de Threads que se encargan de realizar tareas de manera simultánea o consecutiva.
+  </li>
+  <li>
+    Uso del método Start() para iniciar el hilo.
+  </li>
+  <li>
+    Sincronización de hilos con el método Join()
+  </li>
+  <li>
+    Bloqueo con el uso de lock() para evitar el acceso de varios hilos a la vez en una parte del código.
+  </li>
+  <li>
+    Uso de la clase ThreadCompletionSuorce<T> para indicarle a un thread que inicie su tarea luego de que las demás hayan finalizado.
+  </li>
+  <li>
+    Creación de ThreadPool y uso del método QueueUserWorkItem()
+  </li>
+  <li>
+    Creación de Task e inicio de las mismas con el método Start()
+  </li>
+  <li>
+    Inicio de las task con el método Run() y uso del método ContinueWith() para realizar task de manera consecutiva.
+  </li>
+   <li>
+    Uso de la clase Parallel con sus métods for y foreach designados.
+  </li>
+   <li>
+    Cancelación de Task utilizando CancellationTokenSource y CancellationToken
+  </li>
+</div>
