@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\Threads\TaskII\TaskII\bin\Debug\TaskII.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\Threads\TaskII\TaskII\bin\Debug\TaskII.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Threads\TaskII\TaskII\bin\Debug\TaskII.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\Threads\TaskII\TaskII\obj\Debug\TaskII.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Threads\TaskII\TaskII\obj\Debug\TaskII.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Threads\TaskII\TaskII\obj\Debug\TaskII.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Threads\TaskII\TaskII\obj\Debug\TaskII.pdb

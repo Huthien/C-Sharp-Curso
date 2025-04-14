@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\Threads\TaskI\TaskI\bin\Debug\TaskI.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\Threads\TaskI\TaskI\bin\Debug\TaskI.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Threads\TaskI\TaskI\bin\Debug\TaskI.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\Threads\TaskI\TaskI\obj\Debug\TaskI.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Threads\TaskI\TaskI\obj\Debug\TaskI.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Threads\TaskI\TaskI\obj\Debug\TaskI.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Threads\TaskI\TaskI\obj\Debug\TaskI.pdb
