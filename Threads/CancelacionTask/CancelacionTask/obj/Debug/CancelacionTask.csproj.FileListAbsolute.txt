@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\Threads\CancelacionTask\CancelacionTask\bin\Debug\CancelacionTask.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\Threads\CancelacionTask\CancelacionTask\bin\Debug\CancelacionTask.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Threads\CancelacionTask\CancelacionTask\bin\Debug\CancelacionTask.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\Threads\CancelacionTask\CancelacionTask\obj\Debug\CancelacionTask.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Threads\CancelacionTask\CancelacionTask\obj\Debug\CancelacionTask.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Threads\CancelacionTask\CancelacionTask\obj\Debug\CancelacionTask.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Threads\CancelacionTask\CancelacionTask\obj\Debug\CancelacionTask.pdb

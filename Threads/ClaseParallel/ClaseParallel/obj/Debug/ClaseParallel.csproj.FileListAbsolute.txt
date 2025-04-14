@@ -1,0 +1,7 @@
+C:\Users\Hu\Documents\Programming Projects\C# Course\Threads\ClaseParallel\ClaseParallel\bin\Debug\ClaseParallel.exe.config
+C:\Users\Hu\Documents\Programming Projects\C# Course\Threads\ClaseParallel\ClaseParallel\bin\Debug\ClaseParallel.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Threads\ClaseParallel\ClaseParallel\bin\Debug\ClaseParallel.pdb
+C:\Users\Hu\Documents\Programming Projects\C# Course\Threads\ClaseParallel\ClaseParallel\obj\Debug\ClaseParallel.csproj.AssemblyReference.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Threads\ClaseParallel\ClaseParallel\obj\Debug\ClaseParallel.csproj.CoreCompileInputs.cache
+C:\Users\Hu\Documents\Programming Projects\C# Course\Threads\ClaseParallel\ClaseParallel\obj\Debug\ClaseParallel.exe
+C:\Users\Hu\Documents\Programming Projects\C# Course\Threads\ClaseParallel\ClaseParallel\obj\Debug\ClaseParallel.pdb
