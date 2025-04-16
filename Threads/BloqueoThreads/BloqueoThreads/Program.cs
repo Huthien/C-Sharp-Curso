@@ -23,7 +23,7 @@ namespace BloqueoThreads
                 personas[i].Start(); 
                 personas[i].Join(); //Se sincronizan los hilos
             }
-
+            Console.ReadLine();
         }
     }
 
